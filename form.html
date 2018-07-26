@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Form</title>
+</head>
+<body>
+<h1 align="center"> Place the Order </h1>
+<form name="myform">
+<fieldset>
+<legend align="center"><em><strong>Personal Details</strong></em></legend>
+<div class="dec'">
+<label for="iname">Name</label>
+ </div>
+ <div>
+  <input type="text" id="iname"><br><br>
+  </div>
+  Email: <input type="email"><br><br>
+  Date of birth: <input type="date" name="birthday"><br><br>
+  Address: <input type="text" required><br><br>
+  Contact No: <input type="tel" pattern="^([9]{1})([234789]{1})([0-9]{8})$" required><br><br>
+ </fieldset>
+ <fieldset>
+<legend align="center"><em><strong>Order Details</strong></em></legend>
+<h3><strong>select dress</strong></h3>
+<select multiple>
+<option>dress 1</option>
+<option>dress 2</option>
+<option>dress 3</option>
+<option>dress 4</option>
+<option>dress 5</option>
+<option>dress 6</option>
+</select>
+<h4>Choose Color</h4>
+<input type="color" name="color">
+<h3><strong>Gender</strong></h3>
+<label class="container">Male
+<input type="radio" name="radio">
+<label class="container">Female
+<input type="radio" name="radio"><br><br>
+<h3>Size</h3>
+<input list="length" name="length"><br>
+<datalist id="length">
+<Option value="small">
+<Option value="medium">
+<Option value="large">
+<Option value="x-large">
+<Option value="xx-large">
+</datalist>
+<h3> Quantity </h3>
+<input type= "number" name="quantity" min="1" max="20"><br><br>
+<input type="submit" name="submit">
+</fieldset>
+</form>
+<script src="formval.js">
+</script>
+</body>
+</html>
