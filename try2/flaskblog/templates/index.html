@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST">
+    {{ form.csrf_token }}
+    {{ form.specs }}
+    {{ form.userr }}
+    <input type="submit">
+    </form>
+    <script>
+
+	var specs_select = document.getElementById("specs");
+        var userr_select = document.getElementById("userr");
+
+        specs_select.onchange = function()  {
+             
+            specs = specs_select.value;
+            
+            fetch('/userr/' + specs).then(function(response) {
+
+                response.json().then(function(data) {
+                    var optionHTML = '';
+
+                    for (var userr of data.users) {
+                        optionHTML += '<option value="' + userr.id + '">' + userr.uname + '</option>';
+                    }
+
+                    userr_select.innerHTML = optionHTML;
+                })
+                
+            });
+        }
+
+    </script>
+</body>
+</html>
