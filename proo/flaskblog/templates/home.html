@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+<h4> DEPARTMENT </h4>
+<input type="button" value="TESTING" onclick="window.location.href='http://127.0.0.1:5000/home?spec=testing'" />
+<br><br>
+<input type="button" value="DEVELOPMENT" onclick="window.location.href='http://127.0.0.1:5000/home?spec=deveops'" />
+<br><br>
+
+<h4>LIST OF ALL USERS </h4>
+
+
+    {% for user in users%}
+        <article class="media content-section">
+          <img class="rounded-circle article-img" src="{{ url_for('static', filename='profile_pics/' + user.image_file) }}">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="{{ url_for('task') }}">{{ user.username }}</a>
+            </div>
+            
+            <p class="article-content">{{ user.specification }}</p>
+          </div>
+        </article>
+    {% endfor %}
+{% endblock content %}
+
+
