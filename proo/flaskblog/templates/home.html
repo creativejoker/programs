@@ -14,7 +14,7 @@
           <img class="rounded-circle article-img" src="{{ url_for('static', filename='profile_pics/' + user.image_file) }}">
           <div class="media-body">
             <div class="article-metadata">
-              <a class="mr-2" href="{{ url_for('task') }}">{{ user.username }}</a>
+              <a class="mr-2" href="{{ url_for('task') }}?user={{ user.username }}">{{ user.username }}</a>
             </div>
             
             <p class="article-content">{{ user.specification }}</p>

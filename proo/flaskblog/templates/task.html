@@ -2,7 +2,7 @@
 {% block content %}
 
 <div class="content-section">
-        <form method="POST" action="/task">
+        <form method="POST" action="/sendtask/{{recipent_user}}">
             {{ form.hidden_tag() }}
             <fieldset class="form-group">
                 <legend class="border-bottom mb-4">Assign Your Task Here!</legend>

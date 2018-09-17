@@ -4,7 +4,7 @@ from PIL import Image
 from flask import render_template, url_for, flash, redirect, request
 from flaskblog import app, db, bcrypt
 from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm
-from flaskblog.models import User
+from flaskblog.models import User, Task
 from flask_login import login_user, current_user, logout_user, login_required
 from flask_socketio import SocketIO, emit
 
@@ -144,7 +144,7 @@ def logout():
 @login_required
 def task():
         form=TaskForm()
-        return render_template('task.html', title='Assign Task', form=form)
+        return render_template('task.html', title='Assign Task', form=form, recipent_user=request.args.get('user'))
 
 
 
@@ -185,5 +185,28 @@ def account():
                            image_file=image_file, form=form)
 
 
+@app.route('/sendtask/<recipient>', methods=['GET', 'POST'])
+@login_required
+def send_task(recipient):
+    request_data = request.form
+    user = User.query.filter_by(username=recipient).first_or_404()
+    form = TaskForm()
+    if request_data:
+        print(request_data)
+        msg = Task(author=current_user, recipient=user,title=request_data['title'],
+                      body=request_data['body'])
+        db.session.add(msg)
+        db.session.commit()
+        flash('Your message has been sent.')
+        return redirect(url_for('home', username=recipient))
+    return render_template('task.html', title=('Send Message'),
+                           form=form, recipient=recipient)
 
+
+@app.route("/user_task")
+@login_required
+def user_task():
+    #user = User.query.filter_by(user=current_user).first()
+    tasks = Task.query.filter_by(recipient_id=current_user.id).all()
+    return render_template('user_task.html', title='Task', tasks=tasks)
 
