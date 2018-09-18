@@ -47,8 +47,8 @@ class Task(db.Model, UserMixin):
     timestamp = db.Column(db.DateTime, index=True, default=datetime.utcnow)
     last_message_read_time = db.Column(db.DateTime)
     final = db.Column(db.Boolean, default=False, nullable=False)
-
+    
     def __repr__(self):
-        return '<Message {}>'.format(self.body)
+        return  f"'{self.title}', '{self.body}'"
 
 

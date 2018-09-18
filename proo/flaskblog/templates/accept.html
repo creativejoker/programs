@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1> this task is accepted  at : </h1>
+ <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
+ <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{{ url_for('accept') }}">ARE YOU SURE ?</a>
+{% endblock content %}

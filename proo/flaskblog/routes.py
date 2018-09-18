@@ -3,7 +3,7 @@ import secrets
 from PIL import Image
 from flask import render_template, url_for, flash, redirect, request
 from flaskblog import app, db, bcrypt
-from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm
+from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, Accept
 from flaskblog.models import User, Task
 from flask_login import login_user, current_user, logout_user, login_required
 from flask_socketio import SocketIO, emit
@@ -86,7 +86,7 @@ def messageRecived():
 
 @socketio.on( 'my event' )
 def handle_my_custom_event( json ):
-    import pdb;pdb.set_trace()
+    #import pdb;pdb.set_trace()
     print( 'recived my event: ' + str( json ) )
     socketio.emit( 'my response', json, callback=messageRecived )
 
@@ -210,3 +210,54 @@ def user_task():
     tasks = Task.query.filter_by(recipient_id=current_user.id).all()
     return render_template('user_task.html', title='Task', tasks=tasks)
 
+@login_required
+def delete_post(post_id):
+    post = Post.query.get_or_404(post_id)
+    if post.author != current_user:
+        abort(403)
+    db.session.delete(post)
+    db.session.commit()
+    flash('Your post has been deleted!', 'success')
+    return redirect(url_for('home'))
+
+
+
+@app.route("/user_task/delete", methods=['POST'])
+@login_required
+def delete():
+  if current_user:
+   
+    post=Task.query.filter_by(title=title, deleted=0).first()
+    db.session.delete(post)
+    db.session.commit()
+    flash('Your post has been deleted!', 'success')
+  return render_template('delete.html', title='Task')
+
+
+@app.route("/user_task/accept", methods=['POST'])
+@login_required
+def accept():
+    request_data = request.form
+    form=AcceptForm
+    if request_data:
+        msg1 = Task(author=current_user, recipient=user,title=request_data['title'],
+                      body=request_data['body'],query=request_data['query'])
+        db.session.add(msg1)
+        db.session.commit()
+        post=Task.query.filter_by(query=query, deleted=0).first()
+        flash('Your message has been accepted.')
+    return render_template('accept.html', title='accepted',post=post)
+
+
+
+@app.route("/user_task/accept/tracttask",methods=['POST'])
+def track():
+    #tasks = Task.query.filter_by(recipient_id=current_user.id).all()
+    post=Task.query.filter_by(query=query, deleted=0).first()
+    #tasks = Task.query.all()
+    return render_template('tracktask.html', title='Task', post=post, tasks=tasks)
+
+    
+
+
+    

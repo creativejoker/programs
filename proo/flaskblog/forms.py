@@ -47,10 +47,8 @@ class LoginForm(FlaskForm):
     submit = SubmitField('Login')
 
 class TaskForm(FlaskForm):
-    title = StringField('Task Title',
-                        validators=[DataRequired()])
-    body = TextAreaField('Task Content',
-                        validators=[DataRequired()])
+    title = StringField('Enter Your Name',validators=[DataRequired()])
+    body = TextAreaField('Task Content',validators=[DataRequired()])
     submit = SubmitField('Send')
     
 
@@ -95,6 +93,12 @@ class UpdateAccountForm(FlaskForm):
             user = User.query.filter_by(email=email.data).first()
             if user:
                 raise ValidationError('That email is taken. Please choose a different one.')
+
+class Accept(FlaskForm):
+        query = TextAreaField('query',validators=[DataRequired()])
+        submit = SubmitField('Send')
+
+     
 
 
 
