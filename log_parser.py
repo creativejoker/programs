@@ -17,25 +17,30 @@ class Logging:
                 for line in files:
                     if get in line:
                         print(line, file=new_file)
-                iterr+=1
+            iterr+=1
                        
 
     # Filtering attributes        
-    def apache_log_reader(logfile):
-      myregex = r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
-      with open(logfile) as f:
-        log = f.read()
-        my_iplist = re.findall(myregex,log)
-        ipcount = Counter(my_iplist)
-        for k, v in ipcount.items():
-          var =("IP Address " + "=> " + str(k) + " " + "Count "  + "=> " + str(v))
-          #print(var)
-          ff = open("ipcount.log",'a')
-          print(var, file=ff) 
-      
+    def log_reader():
+        iterator=0
+        myregex = r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
+        log_files=os.listdir('logs')
+        ff = open("ipcount.log",'a')
+        for files in log_files:
+            files_list=os.path.join(os.getcwd()+'\\logs\\'+log_files[iterator])
+            with open(files_list, 'r') as files:
+                log = files.read()
+                my_iplist = re.findall(myregex,log)
+                ipcount = Counter(my_iplist)
+                for k, v in ipcount.items():
+                    var =("IP Address " + "=> " + str(k) + "" + "\tCount "  + "=> " + str(v))
+                    print(var, file=ff)
+            iterator+=1
+
+            
     if __name__ == '__main__':
-      apache_log_reader("logs/access.log")
-      search()
+        log_reader()
+        search()
   
    
 
