@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+{% for task in tasks %}
+<div class="content-section">
+
+
+<b><font color="#092940">Sender:</font></b> {{task.title}}<br>
+<b><font color="#092940">Task Assigned:</font></b> {{task.body}}<br><br>
+
+
+<input type="button" value="Accept" onclick="window.location.href='http://127.0.0.1:5000/accept'" />
+
+<input type="button" value="Reject" onclick="window.location.href='http://127.0.0.1:5000/reject'" />
+ 
+</div>
+{% endfor %}
+{% endblock content %}
+
+
