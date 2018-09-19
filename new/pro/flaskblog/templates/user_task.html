@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block content %}
+{% for task in tasks %}
+<div class="content-section">
+
+
+<b><font color="#092940">Sender:</font></b> {{task.title}}<br>
+<b><font color="#092940">Task Assigned:</font></b> {{task.body}}<br><br>
+<!--<b><font color="#092940">Sender_id:</font></b> {{task.sender_id}}<br>-->
+
+
+
+
+<a class="nav-item nav-link" href="{{ url_for('accept') }}">Accept</a>
+
+
+
+ 
+</div>
+{% endfor %}
+{% endblock content %}
+
+
