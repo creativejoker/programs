@@ -32,6 +32,16 @@ class User(db.Model, UserMixin):
     messages_received = db.relationship('Task',
                                         foreign_keys='Task.recipient_id',
                                         backref='recipient', lazy='dynamic')
+    x = db.relationship('MyTask',
+                                        foreign_keys='MyTask.user_id',
+                                        backref='auth', lazy='dynamic')
+    y = db.relationship('Reject',
+                                        foreign_keys='Reject.user_id',
+                                        backref='auth', lazy='dynamic')
+   
+   
+   
+   
    
     def __repr__(self):
         return f"User('{self.username}', '{self.email}', '{self.image_file}','{self.specification}')"
@@ -58,6 +68,7 @@ class MyTask(db.Model, UserMixin):
 	id = db.Column(db.Integer, primary_key=True)
 	body = db.Column(db.Text())
 	user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+	
 
 	def __repr__(self):
 		return f"'{self.body}'"
@@ -68,6 +79,7 @@ class Reject(db.Model, UserMixin):
 	id = db.Column(db.Integer, primary_key=True)
 	body = db.Column(db.Text())
 	user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+	
 
 	def __repr__(self):
 		return f"'{self.body}'"
