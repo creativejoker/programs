@@ -1,7 +1,7 @@
 import os
 import secrets
 from PIL import Image
-from flask import render_template, url_for, flash, redirect, request
+from flask import render_template, url_for, flash, redirect, request, abort
 from flaskblog import app, db, bcrypt
 from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, MyTask1, RejectForm
 from flaskblog.models import User, Task, MyTask, Reject 
@@ -274,8 +274,18 @@ def reject():
 	
 	
 
+        
 
-    
+@app.route("/task/<int:task_id>/delete", methods=['GET', 'POST'])
+@login_required
+def delete_post(task_id):
+    task = Task.query.get(task_id)
+    #if task.author != current_user:
+        
+    db.session.delete(task)
+    db.session.commit()
+    flash('Your task has been deleted!', 'success')
+    return redirect(url_for('home'))  
 	
 	
 		

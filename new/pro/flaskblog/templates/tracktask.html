@@ -3,8 +3,10 @@
  {% for post in tracktask %}
         <article class="media content-section">
             <div>
-              <h4>Accepted Task Completion Time:</h4> <a class="mr-2" href="#">{{ post.body }}</a><br>
-              By User ID:<small class="text-muted">{{ post.auth.username }}</small>
+		Sent By : <small class="text-muted"><b><font color="blue">{{ post.auth.username }}</font></b></small><br><br>
+
+              <div><h6><font color="green">(Task Accepted)</h6></font></div> <b>Completion Time</b> : {{ post.body }}<br>
+              
             </div>
             
         </article>
@@ -13,8 +15,9 @@
  {% for post in reject %}
         <article class="media content-section">
             <div>
-              <h4>Rejected Task (Reason) :</h4> <a class="mr-2" href="#">{{ post.body }}</a><br>
-               By User ID: <small class="text-muted">{{ post.auth.username }}</small>
+		Sent By : <small class="text-muted"><b><font color="blue">{{ post.auth.username }}</font></b></small><br><br>
+
+              <div><h6><font color="red">(Task Rejected)</h6></font></div> <b>Reason</b> : {{ post.body }}<br>
             </div>
             
         </article>
