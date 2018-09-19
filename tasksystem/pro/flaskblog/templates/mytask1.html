@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+<form method="POST" action="/user_task/accept">
+ <div class="form-group">                        
+{{ form.body.label(class="form-check-label") }}       
+{{ form.body(class="form-control form-control-lg is-invalid") }}
+</div>
+
+
+<div class="form-group">
+{{ form.submit(class="btn btn-outline-info") }}
+</div>
+
+</form>
+{% endblock content %}
