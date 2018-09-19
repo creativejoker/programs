@@ -3,8 +3,8 @@ import secrets
 from PIL import Image
 from flask import render_template, url_for, flash, redirect, request
 from flaskblog import app, db, bcrypt
-from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, MyTask1
-from flaskblog.models import User, Task, MyTask
+from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, MyTask1, RejectForm
+from flaskblog.models import User, Task, MyTask, Reject 
 from flask_login import login_user, current_user, logout_user, login_required
 from flask_socketio import SocketIO, emit
 
@@ -139,10 +139,14 @@ def reset_token(token):
         return redirect(url_for('login'))
     return render_template('reset_token.html', title='Reset Password', form=form)
 
+
+
 @app.route("/logout")
 def logout():
     logout_user()
     return redirect(url_for('home'))
+
+
 
 @app.route("/task")
 @login_required
@@ -223,20 +227,16 @@ def user_task():
 
 
 
-		
-
-		
-		
 			
 		
 @app.route("/tracktask")
 @login_required
 def tracktask():
 	tracktask=MyTask.query.all()
-	return render_template('tracktask.html', title='Task', tracktask=tracktask )
+	reject=Reject.query.all()
+	return render_template('tracktask.html', title='Task', tracktask=tracktask, reject=reject)
 	
 	
-
 
 	
         
@@ -251,11 +251,26 @@ def accept():
 		db.session.commit()
 		flash('your response is saved')
 		return redirect(url_for('home'))
-	return render_template('mytask1.html', title='Register', form=form)
+	return render_template('mytask1.html', title='Accept', form=form)
 
-	
-	
-	
+
+
+
+@app.route("/user_task/reject", methods=['GET', 'POST'])
+@login_required
+def reject():
+	request_data = request.form
+	form = RejectForm()
+	if request_data:
+		reject = Reject(body=request_data['body'], user_id=current_user.id)
+		db.session.add(reject)
+		db.session.commit()
+		flash('your response is saved')
+		return redirect(url_for('home'))
+	return render_template('rejectform.html', title='Reject', form=form)
+
+
+
 	
 	
 

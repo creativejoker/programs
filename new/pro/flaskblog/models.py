@@ -61,3 +61,13 @@ class MyTask(db.Model, UserMixin):
 
 	def __repr__(self):
 		return f"'{self.body}'"
+
+
+
+class Reject(db.Model, UserMixin):
+	id = db.Column(db.Integer, primary_key=True)
+	body = db.Column(db.Text())
+	user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+
+	def __repr__(self):
+		return f"'{self.body}'"

@@ -3,7 +3,7 @@ from flask_wtf.file import FileField, FileAllowed
 from flask_login import current_user
 from wtforms import StringField, PasswordField, SubmitField, BooleanField, FileField, SelectField, TextAreaField
 from wtforms.validators import DataRequired, Length, Email, EqualTo, ValidationError
-from flaskblog.models import User, Choice, MyTask
+from flaskblog.models import User, Choice, MyTask, Reject
 from wtforms_sqlalchemy.fields import QuerySelectField
 
 
@@ -61,6 +61,10 @@ class AcceptForm(FlaskForm):
                         validators=[DataRequired()])
     submit = SubmitField('Send')
 
+
+
+
+
     
 
 class RequestResetForm(FlaskForm):
@@ -106,7 +110,13 @@ class UpdateAccountForm(FlaskForm):
 							
 class MyTask1(FlaskForm):
     body = TextAreaField('Task', validators=[DataRequired()])
-    submit = SubmitField('confirm?')
+    submit = SubmitField('confirm')
+
+
+class RejectForm(FlaskForm):
+    body = TextAreaField('Task', validators=[DataRequired()])
+    submit = SubmitField('Confirm')
+
 
 
 
