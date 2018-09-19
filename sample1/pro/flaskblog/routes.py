@@ -3,8 +3,8 @@ import secrets
 from PIL import Image
 from flask import render_template, url_for, flash, redirect, request
 from flaskblog import app, db, bcrypt
-from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, AcceptForm
-from flaskblog.models import User, Task, Reply
+from flaskblog.forms import RegistrationForm, LoginForm,RequestResetForm,ResetPasswordForm,UpdateAccountForm, TaskForm, MyTask1
+from flaskblog.models import User, Task, MyTask
 from flask_login import login_user, current_user, logout_user, login_required
 from flask_socketio import SocketIO, emit
 
@@ -90,7 +90,7 @@ def messageRecived():
 
 @socketio.on( 'my event' )
 def handle_my_custom_event( json ):
-    import pdb;pdb.set_trace()
+   # import pdb;pdb.set_trace()
     print( 'recived my event: ' + str( json ) )
     socketio.emit( 'my response', json, callback=messageRecived )
 
@@ -152,11 +152,7 @@ def task():
 
 
 
-@app.route("/reject")
-@login_required
-def reject():
-        form=TaskForm()
-        return render_template('reject.html', title=' Reject Page', form=form)
+
 
 
 
@@ -223,35 +219,52 @@ def user_task():
     return render_template('user_task.html', title='Task', tasks=tasks)
 
 
-@app.route("/accept")
-@login_required
-def accept():
-        form=AcceptForm()
-        return render_template('accept.html', title=' Accept Page ', form=form, recipient_user=request.args.get('user'))
 
 
-@app.route('/sendreply/<recipient>', methods=['GET', 'POST'])
-@login_required
-def send_reply(recipient):
-    request_data = request.form
-    user = User.query.filter_by(username=recipient).first_or_404()
-    form = AcceptForm()
-    if request_data:
-        print(request_data)
-        msgg = Reply(author=current_user, recipient=user, accept=request_data['accept'])
-        db.session.add(msgg)
-        db.session.commit()
-        flash('Your message has been sent.')
-        return redirect(url_for('home', username=recipient))
-    return render_template('accept.html', title=('Send Reply'),
-                           form=form, recipient=recipient)
+		
 
-
+		
+		
+		
+		
+		
+		
+		
 @app.route("/tracktask")
 @login_required
 def tracktask():
-    replies = Reply.query.filter_by(recipient_id=current_user.id).all()
-    return render_template('tracktask.html', title='Task Tracker', replies=replies )
+	tracktask=MyTask.query.all()
+	return render_template('tracktask.html', title='Task', tracktask=tracktask )
+	
+	
 
+
+	
+        
+@app.route("/user_task/accept", methods=['GET', 'POST'])
+@login_required
+def accept():
+	request_data = request.form
+	form = MyTask1()
+	if request_data:
+		accept = MyTask(body=request_data['body'], user_id=current_user.id)
+		db.session.add(accept)
+		db.session.commit()
+		flash('your response is saved')
+		return redirect(url_for('home'))
+	return render_template('mytask1.html', title='Register', form=form)
+
+	
+	
+	
+	
+	
+
+   
+    
+	
+	
+		
+	
 
 

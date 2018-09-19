@@ -54,12 +54,10 @@ class Task(db.Model, UserMixin):
 
     
         
-class Reply(db.Model, UserMixin):
-    id = db.Column(db.Integer, primary_key=True)
-    sender_id = db.Column(db.Integer, db.ForeignKey('user.id'))
-    recipient_id = db.Column(db.Integer, db.ForeignKey('user.id'))
-    accept = db.Column(db.Text(100))
-    final = db.Column(db.Boolean, default=False, nullable=False)
+class MyTask(db.Model, UserMixin):
+	id = db.Column(db.Integer, primary_key=True)
+	body = db.Column(db.Text())
+	user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
 
-    def __repr__(self):
-        return '{}'.format(self.accept)
+	def __repr__(self):
+		return f"'{self.body}'"

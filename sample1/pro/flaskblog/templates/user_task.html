@@ -6,11 +6,15 @@
 
 <b><font color="#092940">Sender:</font></b> {{task.title}}<br>
 <b><font color="#092940">Task Assigned:</font></b> {{task.body}}<br><br>
+<!--<b><font color="#092940">Sender_id:</font></b> {{task.sender_id}}<br>-->
 
 
-<input type="button" value="Accept" onclick="window.location.href='http://127.0.0.1:5000/accept'" />
 
-<input type="button" value="Reject" onclick="window.location.href='http://127.0.0.1:5000/reject'" />
+
+<a class="nav-item nav-link" href="{{ url_for('accept') }}">Accept</a>
+<!--<a class="nav-item nav-link" href="{{ url_for('reject') }}">Delete</a>-->
+
+<!--<input type="button" value="Reject" onclick="window.location.href='http://127.0.0.1:5000/reject?id={{task.id}}'" />-->
  
 </div>
 {% endfor %}
