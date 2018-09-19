@@ -1,0 +1,728 @@
+[Fri Aug 31 06:25:02.354195 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Compiled for Python/3.5.1+.
+[Fri Aug 31 06:25:02.354221 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Runtime using Python/3.5.2.
+[Fri Aug 31 06:25:02.354715 2018] [mpm_event:notice] [pid 27337:tid 140245680211840] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Fri Aug 31 06:25:02.354722 2018] [core:notice] [pid 27337:tid 140245680211840] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Aug 31 08:25:41.222762 2018] [wsgi:error] [pid 28787:tid 140245546563328] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 08:25:41.250613 2018] [wsgi:error] [pid 28786:tid 140245529777920] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 08:25:41.656696 2018] [wsgi:error] [pid 28786:tid 140245529777920] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 08:25:41.656714 2018] [wsgi:error] [pid 28786:tid 140245529777920]   """)
+[Fri Aug 31 08:25:41.732885 2018] [wsgi:error] [pid 28787:tid 140245546563328] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 08:25:41.732905 2018] [wsgi:error] [pid 28787:tid 140245546563328]   """)
+[Fri Aug 31 09:18:53.537285 2018] [wsgi:error] [pid 28787:tid 140245437769472] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 09:18:53.878106 2018] [wsgi:error] [pid 28786:tid 140245412591360] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 09:18:54.292262 2018] [wsgi:error] [pid 28787:tid 140245437769472] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:54.292287 2018] [wsgi:error] [pid 28787:tid 140245437769472]   """)
+[Fri Aug 31 09:18:54.916539 2018] [wsgi:error] [pid 28787:tid 140245420984064] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 09:18:55.034630 2018] [wsgi:error] [pid 28786:tid 140245437769472] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:55.034661 2018] [wsgi:error] [pid 28786:tid 140245437769472]   """)
+[Fri Aug 31 09:18:55.613429 2018] [wsgi:error] [pid 28786:tid 140245395805952] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:55.613446 2018] [wsgi:error] [pid 28786:tid 140245395805952]   """)
+[Fri Aug 31 09:18:56.010530 2018] [wsgi:error] [pid 28787:tid 140245370627840] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:56.010572 2018] [wsgi:error] [pid 28787:tid 140245370627840]   """)
+[Fri Aug 31 09:18:56.601025 2018] [wsgi:error] [pid 28786:tid 140245404198656] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:56.601053 2018] [wsgi:error] [pid 28786:tid 140245404198656]   """)
+[Fri Aug 31 09:18:56.605719 2018] [wsgi:error] [pid 28786:tid 140245404198656] Using config: api.config.DevConfig
+[Fri Aug 31 09:18:57.709734 2018] [wsgi:error] [pid 28786:tid 140245353842432] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 09:18:58.012365 2018] [wsgi:error] [pid 28787:tid 140245345449728] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:58.012400 2018] [wsgi:error] [pid 28787:tid 140245345449728]   """)
+[Fri Aug 31 09:18:58.543742 2018] [wsgi:error] [pid 28786:tid 140245353842432] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:58.543770 2018] [wsgi:error] [pid 28786:tid 140245353842432]   """)
+[Fri Aug 31 09:18:58.967406 2018] [wsgi:error] [pid 28786:tid 140245311878912] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 09:18:59.344849 2018] [wsgi:error] [pid 28786:tid 140245311878912] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:18:59.344889 2018] [wsgi:error] [pid 28786:tid 140245311878912]   """)
+[Fri Aug 31 09:20:09.871078 2018] [wsgi:error] [pid 28786:tid 140245395805952] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 09:20:10.153431 2018] [wsgi:error] [pid 28786:tid 140245395805952] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:20:10.153461 2018] [wsgi:error] [pid 28786:tid 140245395805952]   """)
+[Fri Aug 31 09:20:18.328174 2018] [wsgi:error] [pid 28787:tid 140245563348736] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 09:20:18.836943 2018] [wsgi:error] [pid 28787:tid 140245395805952] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 09:20:18.970885 2018] [wsgi:error] [pid 28787:tid 140245395805952] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:20:18.970908 2018] [wsgi:error] [pid 28787:tid 140245395805952]   """)
+[Fri Aug 31 09:20:19.308915 2018] [wsgi:error] [pid 28787:tid 140245446162176] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:20:19.308950 2018] [wsgi:error] [pid 28787:tid 140245446162176]   """)
+[Fri Aug 31 09:20:21.128556 2018] [wsgi:error] [pid 28787:tid 140245353842432] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 09:20:21.128588 2018] [wsgi:error] [pid 28787:tid 140245353842432]   """)
+[Fri Aug 31 09:20:21.133423 2018] [wsgi:error] [pid 28787:tid 140245353842432] Using config: api.config.DevConfig
+[Fri Aug 31 10:06:39.079741 2018] [wsgi:error] [pid 28786:tid 140245554956032] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 10:06:39.371816 2018] [wsgi:error] [pid 28786:tid 140245412591360] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 10:06:39.371837 2018] [wsgi:error] [pid 28786:tid 140245412591360]   """)
+[Fri Aug 31 10:12:37.989837 2018] [wsgi:error] [pid 28787:tid 140245328664320] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 10:12:38.010090 2018] [wsgi:error] [pid 28787:tid 140245328664320] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 10:12:38.010114 2018] [wsgi:error] [pid 28787:tid 140245328664320]   """)
+[Fri Aug 31 10:28:42.711258 2018] [wsgi:error] [pid 28786:tid 140245370627840] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 10:28:56.161908 2018] [wsgi:error] [pid 28786:tid 140245563348736] [client 203.145.182.245:60075] mod_wsgi (pid=28786): Exception occurred processing WSGI script '/home/puneet/release_2/humaniti/humaniti/financial/api/financial.wsgi'., referer: http://localhost:4200/accounts/link-account
+[Fri Aug 31 10:28:56.162084 2018] [wsgi:error] [pid 28786:tid 140245563348736] [client 203.145.182.245:60075] OSError: failed to write data, referer: http://localhost:4200/accounts/link-account
+[Fri Aug 31 10:29:05.701724 2018] [wsgi:error] [pid 28786:tid 140245295093504] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 10:58:38.243920 2018] [wsgi:error] [pid 28787:tid 140245370627840] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 10:58:38.731867 2018] [wsgi:error] [pid 28787:tid 140245370627840] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 10:58:38.731892 2018] [wsgi:error] [pid 28787:tid 140245370627840]   """)
+[Fri Aug 31 10:58:39.505283 2018] [wsgi:error] [pid 28786:tid 140245387413248] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 10:58:39.879919 2018] [wsgi:error] [pid 28786:tid 140245387413248] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 10:58:39.879951 2018] [wsgi:error] [pid 28786:tid 140245387413248]   """)
+[Fri Aug 31 11:18:38.397267 2018] [wsgi:error] [pid 28787:tid 140245546563328] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 11:18:41.270137 2018] [wsgi:error] [pid 28787:tid 140245546563328] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:18:41.270181 2018] [wsgi:error] [pid 28787:tid 140245546563328]   """)
+[Fri Aug 31 11:18:41.277804 2018] [wsgi:error] [pid 28787:tid 140245546563328] b'J7XCJsYXN0X25hbWVcIjogXCJSXCIsIFwiYmRheVwiOiBcIjIwMDIvMTIvMDFcIiwgXCJmaXJzdF9uYW1lXCI6IFwiU0FSQVZBTkFOXCIsIFwiaWRcIjogMywgXCJtc19lbWFpbFwiOiBudWxsLCBcImVtYWlsXCI6IFwic2FyYXZhbmFuLnJhamVuZHJhbkBiZXlvbmRhbmFseXNpcy5uZXRcIiwgXCJwYXNzd29yZFwiOiBcIiQyYiQwNCR2cXppNURNMWhDMVVnb1JSQldnTVl1SE1LbkFPNmJFTm5PNTdCb2U2blhRL0VubGZuaURBV1wiLCBcIm1zX2lkXCI6IG51bGwsIFwiZ2VuZGVyXCI6IFwibWFsZVwiLCBcImh1bV9yZWZcIjogXCJGYW1pbHkgb3IgRnJpZW5kc1wiLCBcInJlZ2lzdGVyZWRfb25cIjogXCIyMDE4LzA4LzI4XCIsIFwiY291bnRyeVwiOiBcIkF1c3RyYWxpYVwiLCBcInBob25lXCI6IFwiOTg5ODk4OTg5OFwiLCBcImFkbWluXCI6IGZhbHNlLCBcImFkZHJlc3NcIjogXCJjaGVubmFpXCJ9IiwiZXhwIjoxNTM1NzE3ODk5LCJpYXQiOjE1MzU3MTQyOTl9.ZBqa2qJi_0ruzu3df2XO-CtjXI6B5jVNUB_Vp4iZkaI'
+[Fri Aug 31 11:23:55.495009 2018] [wsgi:error] [pid 28786:tid 140245295093504] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 11:23:58.137707 2018] [wsgi:error] [pid 28786:tid 140245295093504] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:23:58.139263 2018] [wsgi:error] [pid 28786:tid 140245295093504]   """)
+[Fri Aug 31 11:32:14.875682 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:15.992883 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:17.558397 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:19.067667 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:20.169665 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:21.471797 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:22.816031 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:24.126634 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:25.395957 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:26.579809 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[crit] Memory allocation failed, aborting process.
+[crit] Memory allocation failed, aborting process.
+[crit] Memory allocation failed, aborting process.
+[Fri Aug 31 11:32:28.075205 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:29.773014 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:31.346940 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:32.792282 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:34.156564 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:35.700166 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:37.160181 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:38.653508 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:40.145624 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:41.810641 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:43.519029 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:45.290840 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:47.048716 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:48.925943 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:50.813576 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:52.664619 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:54.630246 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:56.467082 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:32:58.340124 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:00.411390 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:02.287888 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:04.040018 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:06.067960 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:07.780765 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:09.552215 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:11.277266 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:13.042622 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:14.761129 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:16.523157 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:18.458025 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:20.680754 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:22.629852 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:24.555004 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:26.471123 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:28.136392 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:29.827736 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:31.702351 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:33.605398 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:35.663435 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:37.448342 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:39.194146 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:41.112530 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:42.907236 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:44.653715 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:46.548512 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:48.303495 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:50.300247 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:52.033458 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:53.726330 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:55.573395 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:57.349269 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:33:59.199686 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:00.983258 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:02.794769 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:04.554647 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:06.353586 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:08.161749 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:10.084325 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:11.871345 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:13.704446 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:15.497730 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:17.169571 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:18.913291 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:20.744608 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:22.477152 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:24.094815 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:25.758387 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:27.429160 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:29.164961 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:30.938166 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:32.972942 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:34.866010 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:36.811083 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:38.573416 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:40.410019 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:42.252304 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:44.062496 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:45.881452 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:47.565328 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:49.296013 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:51.012222 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:52.833045 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:54.762879 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:56.397258 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:34:58.360838 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:00.120807 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:02.040554 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:04.056314 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:05.951674 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:07.957184 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:09.917023 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:11.534305 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:13.307259 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:15.137409 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:16.965084 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:18.953554 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:20.783217 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:22.688422 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:24.687199 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:26.677543 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:28.526490 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:30.572503 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:32.513200 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:34.261524 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:36.177857 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:38.122377 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:39.798018 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:42.036078 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:43.962387 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:46.078303 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:48.290187 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:50.380188 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:52.460376 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:54.373688 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:56.262930 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:35:58.130422 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:00.086128 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:02.012496 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:03.905402 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:05.835987 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:07.528704 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:09.430711 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:11.460631 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:13.380975 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:15.311314 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:17.194238 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:19.155834 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:20.932062 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:22.946565 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:24.871200 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:26.650725 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:28.569376 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:30.380661 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:32.268005 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:34.055476 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:35.972267 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:37.930103 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:39.793143 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:41.700963 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:43.661117 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:45.606508 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:47.783066 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:50.275988 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:52.573988 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:54.916873 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:57.085125 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:36:59.232773 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:01.192669 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:03.457607 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:05.646521 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:07.762429 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:09.592916 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:11.691597 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:13.768043 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:16.017132 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:18.288860 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:20.560465 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:22.589082 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:24.593208 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:26.344829 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:28.251405 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:30.273581 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:32.391184 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:34.531235 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:36.551207 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:38.371836 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:40.314975 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:42.273830 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:44.105133 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:45.913259 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:48.008984 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:49.847555 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:51.774912 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:53.582647 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:55.346285 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:57.040858 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:37:58.950836 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:00.954893 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:03.171037 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:04.936051 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:07.013716 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:08.817820 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:10.580331 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:12.464026 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:14.203571 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:16.059558 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:17.996252 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:19.851187 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:21.711005 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:23.644332 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:25.623891 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:27.314561 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:29.148041 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:31.113525 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:33.144254 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:34.924348 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:36.680563 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:38.584154 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:40.320066 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:42.245670 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:44.026946 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:45.787140 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:47.700566 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:49.413188 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:51.519122 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:53.297529 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:55.160681 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:57.020748 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:38:59.100025 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:00.833280 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:02.569504 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:04.478567 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:06.219916 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:07.921663 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:09.713813 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:11.470480 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:13.209185 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:14.985966 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:16.784689 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:18.621988 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:20.613034 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:22.912608 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:24.799761 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:26.781913 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:28.454795 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:30.396850 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:32.360031 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:34.818037 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:36.906625 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:38.886471 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:40.854361 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:42.921006 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:44.893887 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:47.025855 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:48.913322 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:51.000273 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:52.969978 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:55.120909 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:57.246292 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:39:59.237838 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:01.112920 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:03.478950 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:05.557461 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:07.462962 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:09.398379 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:11.539978 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:13.587299 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:15.395673 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:17.375283 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:19.463696 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:21.559699 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:23.622078 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:26.200060 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:28.421532 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:30.521838 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:32.945328 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:35.080767 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:37.189294 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:39.337126 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:41.380753 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:43.557544 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:45.707790 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:47.771745 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:49.763948 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:52.107769 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:54.101726 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:56.078750 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:40:58.275674 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:00.225890 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:02.331803 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:04.175853 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:06.122961 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:07.950528 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:10.021327 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:12.092763 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:14.131951 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:16.336231 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:18.198125 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:20.169360 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:22.331289 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:24.432619 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:26.620424 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:28.953011 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:31.590701 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:33.815039 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:36.265865 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:38.405614 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:40.608641 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:42.545331 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:44.630544 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:46.764116 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:48.893305 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:51.065862 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:53.396026 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:55.557177 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:57.840922 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:41:59.836640 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:01.993614 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:04.224665 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:06.432343 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:08.697676 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:10.705070 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:12.598340 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:14.685154 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:16.732970 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:18.671265 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:21.094599 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:23.384005 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:25.831102 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:28.100420 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:30.687202 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:33.455513 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:36.076069 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:38.622987 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:41.223979 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:43.810496 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:46.358416 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:49.044053 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:51.693643 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:54.194574 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:56.371814 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:42:59.125195 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:01.661007 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:04.271125 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:06.634802 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:09.179571 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:11.743922 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:14.094911 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:16.556057 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:18.880336 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:21.316642 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:23.680387 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:26.039923 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:28.540914 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:30.995293 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:33.741128 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:36.367398 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:39.196732 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:41.710685 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:44.124104 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:46.781095 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:48.996314 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:51.267540 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:53.423122 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:55.941686 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:43:58.426676 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:00.819203 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:03.456901 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:05.966191 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:08.385451 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:11.227811 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:13.908524 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:16.426826 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:19.309041 2018] [mpm_event:error] [pid 27337:tid 140245680211840] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Fri Aug 31 11:44:20.959402 2018] [core:notice] [pid 27337:tid 140245680211840] AH00051: child pid 28787 exit signal Aborted (6), possible coredump in /etc/apache2
+[Fri Aug 31 11:44:22.521535 2018] [wsgi:error] [pid 1042:tid 140245261555456] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 11:44:22.524945 2018] [wsgi:error] [pid 1041:tid 140245487830784] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 11:44:22.771792 2018] [wsgi:error] [pid 1040:tid 140245504616192] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 11:44:22.831059 2018] [wsgi:error] [pid 1043:tid 140245504616192] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 11:44:23.973217 2018] [wsgi:error] [pid 1043:tid 140245504616192] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:23.973248 2018] [wsgi:error] [pid 1043:tid 140245504616192]   """)
+[Fri Aug 31 11:44:24.139934 2018] [wsgi:error] [pid 1041:tid 140245479438080] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:24.396222 2018] [wsgi:error] [pid 1040:tid 140245462652672] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:24.717766 2018] [wsgi:error] [pid 1041:tid 140245479438080] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:24.717788 2018] [wsgi:error] [pid 1041:tid 140245479438080]   """)
+[Fri Aug 31 11:44:24.798857 2018] [wsgi:error] [pid 1042:tid 140245286733568] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:24.798888 2018] [wsgi:error] [pid 1042:tid 140245286733568]   """)
+[Fri Aug 31 11:44:25.665317 2018] [wsgi:error] [pid 1043:tid 140245496223488] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:26.191292 2018] [wsgi:error] [pid 1040:tid 140245462652672] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:26.191320 2018] [wsgi:error] [pid 1040:tid 140245462652672]   """)
+[Fri Aug 31 11:44:26.595520 2018] [wsgi:error] [pid 1041:tid 140245471045376] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:26.595549 2018] [wsgi:error] [pid 1041:tid 140245471045376]   """)
+[Fri Aug 31 11:44:27.048570 2018] [wsgi:error] [pid 1042:tid 140245462652672] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:27.133073 2018] [wsgi:error] [pid 1043:tid 140245496223488] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:27.145117 2018] [wsgi:error] [pid 1043:tid 140245496223488]   """)
+[Fri Aug 31 11:44:27.809264 2018] [wsgi:error] [pid 1042:tid 140245462652672] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:27.809295 2018] [wsgi:error] [pid 1042:tid 140245462652672]   """)
+[Fri Aug 31 11:44:28.614296 2018] [wsgi:error] [pid 1040:tid 140245311911680] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:28.614338 2018] [wsgi:error] [pid 1040:tid 140245311911680]   """)
+[Fri Aug 31 11:44:28.909676 2018] [wsgi:error] [pid 1041:tid 140245504616192] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:28.932103 2018] [wsgi:error] [pid 1042:tid 140245227984640] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 11:44:29.879990 2018] [wsgi:error] [pid 1043:tid 140245303518976] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:29.880045 2018] [wsgi:error] [pid 1043:tid 140245303518976]   """)
+[Fri Aug 31 11:44:30.616154 2018] [wsgi:error] [pid 1041:tid 140245504616192] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:30.616183 2018] [wsgi:error] [pid 1041:tid 140245504616192]   """)
+[Fri Aug 31 11:44:31.644293 2018] [wsgi:error] [pid 1041:tid 140245337089792] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 11:44:31.705489 2018] [wsgi:error] [pid 1043:tid 140245253162752] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:32.347885 2018] [wsgi:error] [pid 1040:tid 140245471045376] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 11:44:33.058163 2018] [wsgi:error] [pid 1042:tid 140245253162752] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 11:44:33.536247 2018] [wsgi:error] [pid 1040:tid 140245471045376] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:33.536288 2018] [wsgi:error] [pid 1040:tid 140245471045376]   """)
+[Fri Aug 31 11:44:33.666275 2018] [wsgi:error] [pid 1043:tid 140245253162752] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:33.666303 2018] [wsgi:error] [pid 1043:tid 140245253162752]   """)
+[Fri Aug 31 11:44:34.407955 2018] [wsgi:error] [pid 1041:tid 140245269948160] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 11:44:34.597693 2018] [wsgi:error] [pid 1043:tid 140245362267904] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 11:44:34.901662 2018] [wsgi:error] [pid 1043:tid 140245362267904] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:34.901692 2018] [wsgi:error] [pid 1043:tid 140245362267904]   """)
+[Fri Aug 31 11:44:34.957816 2018] [wsgi:error] [pid 1041:tid 140245269948160] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:34.957831 2018] [wsgi:error] [pid 1041:tid 140245269948160]   """)
+[Fri Aug 31 11:44:35.916629 2018] [wsgi:error] [pid 1041:tid 140245286733568] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 11:44:36.088400 2018] [wsgi:error] [pid 1042:tid 140245253162752] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:36.088433 2018] [wsgi:error] [pid 1042:tid 140245253162752]   """)
+[Fri Aug 31 11:44:36.429773 2018] [wsgi:error] [pid 1042:tid 140245471045376] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 11:44:36.813300 2018] [wsgi:error] [pid 1042:tid 140245471045376] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:36.813324 2018] [wsgi:error] [pid 1042:tid 140245471045376]   """)
+[Fri Aug 31 11:44:36.876038 2018] [wsgi:error] [pid 1040:tid 140245379053312] ERROR:project.views:(psycopg2.IntegrityError) duplicate key value violates unique constraint "user_property_uc"
+[Fri Aug 31 11:44:36.876072 2018] [wsgi:error] [pid 1040:tid 140245379053312] DETAIL:  Key (user_id, address)=(13, 1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India) already exists.
+[Fri Aug 31 11:44:36.876078 2018] [wsgi:error] [pid 1040:tid 140245379053312]  [SQL: 'INSERT INTO property (user_id, is_ownership, is_rent, rent_amount, property_id, address, property_type, bedrooms, carparks, bathrooms, landarea, estimated_value, financial_account_id, reported_value, existing_property, use_estimate, provider_id, is_moneysoft, created_at, updated_at) VALUES (%(user_id)s, %(is_ownership)s, %(is_rent)s, %(rent_amount)s, %(property_id)s, %(address)s, %(property_type)s, %(bedrooms)s, %(carparks)s, %(bathrooms)s, %(landarea)s, %(estimated_value)s, %(financial_account_id)s, %(reported_value)s, %(existing_property)s, %(use_estimate)s, %(provider_id)s, %(is_moneysoft)s, %(created_at)s, %(updated_at)s) RETURNING property.id'] [parameters: {'updated_at': datetime.datetime(2018, 8, 31, 11, 44, 36, 628463), 'is_moneysoft': False, 'financial_account_id': 0, 'use_estimate': False, 'user_id': '13', 'carparks': 0, 'existing_property': False, 'provider_id': 0, 'landarea': 0, 'property_type': 1, 'reported_value': 0, 'is_ownership': False, 'is_rent': False, 'created_at': datetime.datetime(2018, 8, 31, 11, 44, 36, 628453), 'bathrooms': 0, 'estimated_value': 0, 'property_id': 0, 'bedrooms': 0, 'rent_amount': 0, 'address': '1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India'}] (Background on this error at: http://sqlalche.me/e/gkpj)
+[Fri Aug 31 11:44:36.876086 2018] [wsgi:error] [pid 1040:tid 140245379053312] 
+[Fri Aug 31 11:44:37.638856 2018] [wsgi:error] [pid 1043:tid 140245479438080] ERROR:project.views:(psycopg2.IntegrityError) duplicate key value violates unique constraint "user_property_uc"
+[Fri Aug 31 11:44:37.638896 2018] [wsgi:error] [pid 1043:tid 140245479438080] DETAIL:  Key (user_id, address)=(13, 1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India) already exists.
+[Fri Aug 31 11:44:37.638902 2018] [wsgi:error] [pid 1043:tid 140245479438080]  [SQL: 'INSERT INTO property (user_id, is_ownership, is_rent, rent_amount, property_id, address, property_type, bedrooms, carparks, bathrooms, landarea, estimated_value, financial_account_id, reported_value, existing_property, use_estimate, provider_id, is_moneysoft, created_at, updated_at) VALUES (%(user_id)s, %(is_ownership)s, %(is_rent)s, %(rent_amount)s, %(property_id)s, %(address)s, %(property_type)s, %(bedrooms)s, %(carparks)s, %(bathrooms)s, %(landarea)s, %(estimated_value)s, %(financial_account_id)s, %(reported_value)s, %(existing_property)s, %(use_estimate)s, %(provider_id)s, %(is_moneysoft)s, %(created_at)s, %(updated_at)s) RETURNING property.id'] [parameters: {'property_id': 0, 'address': '1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India', 'bathrooms': 0, 'landarea': 0, 'provider_id': 0, 'use_estimate': False, 'rent_amount': 0, 'financial_account_id': 0, 'is_ownership': False, 'carparks': 0, 'estimated_value': 0, 'user_id': '13', 'updated_at': datetime.datetime(2018, 8, 31, 11, 44, 37, 606810), 'bedrooms': 0, 'existing_property': False, 'property_type': 1, 'is_moneysoft': False, 'created_at': datetime.datetime(2018, 8, 31, 11, 44, 37, 606800), 'reported_value': 0, 'is_rent': False}] (Background on this error at: http://sqlalche.me/e/gkpj)
+[Fri Aug 31 11:44:37.638910 2018] [wsgi:error] [pid 1043:tid 140245479438080] 
+[Fri Aug 31 11:44:37.849975 2018] [wsgi:error] [pid 1042:tid 140245236377344] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:38.235960 2018] [wsgi:error] [pid 1041:tid 140245286733568] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:38.235994 2018] [wsgi:error] [pid 1041:tid 140245286733568]   """)
+[Fri Aug 31 11:44:38.387157 2018] [wsgi:error] [pid 1041:tid 140245227984640] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:38.387190 2018] [wsgi:error] [pid 1041:tid 140245227984640]   """)
+[Fri Aug 31 11:44:38.409261 2018] [wsgi:error] [pid 1041:tid 140245353875200] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:38.409273 2018] [wsgi:error] [pid 1041:tid 140245353875200]   """)
+[Fri Aug 31 11:44:38.708546 2018] [wsgi:error] [pid 1042:tid 140245236377344] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:38.708575 2018] [wsgi:error] [pid 1042:tid 140245236377344]   """)
+[Fri Aug 31 11:44:39.325806 2018] [wsgi:error] [pid 1042:tid 140245353875200] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:39.446245 2018] [wsgi:error] [pid 1041:tid 140245236377344] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 11:44:39.485268 2018] [wsgi:error] [pid 1043:tid 140245236377344] ERROR:project.views:(psycopg2.IntegrityError) duplicate key value violates unique constraint "user_property_uc"
+[Fri Aug 31 11:44:39.485294 2018] [wsgi:error] [pid 1043:tid 140245236377344] DETAIL:  Key (user_id, address)=(13, 1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India) already exists.
+[Fri Aug 31 11:44:39.485299 2018] [wsgi:error] [pid 1043:tid 140245236377344]  [SQL: 'INSERT INTO property (user_id, is_ownership, is_rent, rent_amount, property_id, address, property_type, bedrooms, carparks, bathrooms, landarea, estimated_value, financial_account_id, reported_value, existing_property, use_estimate, provider_id, is_moneysoft, created_at, updated_at) VALUES (%(user_id)s, %(is_ownership)s, %(is_rent)s, %(rent_amount)s, %(property_id)s, %(address)s, %(property_type)s, %(bedrooms)s, %(carparks)s, %(bathrooms)s, %(landarea)s, %(estimated_value)s, %(financial_account_id)s, %(reported_value)s, %(existing_property)s, %(use_estimate)s, %(provider_id)s, %(is_moneysoft)s, %(created_at)s, %(updated_at)s) RETURNING property.id'] [parameters: {'property_id': 0, 'address': '1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India', 'bathrooms': 0, 'landarea': 0, 'provider_id': 0, 'use_estimate': False, 'rent_amount': 0, 'financial_account_id': 0, 'is_ownership': False, 'carparks': 0, 'estimated_value': 0, 'user_id': '13', 'updated_at': datetime.datetime(2018, 8, 31, 11, 44, 39, 467988), 'bedrooms': 0, 'existing_property': False, 'property_type': 1, 'is_moneysoft': False, 'created_at': datetime.datetime(2018, 8, 31, 11, 44, 39, 467979), 'reported_value': 0, 'is_rent': False}] (Background on this error at: http://sqlalche.me/e/gkpj)
+[Fri Aug 31 11:44:39.485308 2018] [wsgi:error] [pid 1043:tid 140245236377344] 
+[Fri Aug 31 11:44:39.562810 2018] [wsgi:error] [pid 1041:tid 140245504616192] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:39.562833 2018] [wsgi:error] [pid 1041:tid 140245504616192]   """)
+[Fri Aug 31 11:44:39.713313 2018] [wsgi:error] [pid 1042:tid 140245236377344] CRITICAL error in logging! (psycopg2.ProgrammingError) can't adapt type 'AttributeError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'trace': None, 'logger': 'project.views', 'logged_at': datetime.datetime(2018, 8, 31, 11, 44, 39, 540224), 'msg': AttributeError('Authorization header attribute missing',), 'level': 'ERROR', 'source': '/home/puneet/release_2/humaniti/humaniti/dashboards/transaction/api/project/views.py:39'}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 11:44:39.713612 2018] [wsgi:error] [pid 1042:tid 140245379053312] CRITICAL error in logging! This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (psycopg2.ProgrammingError) can't adapt type 'AttributeError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'trace': None, 'logger': 'project.views', 'logged_at': datetime.datetime(2018, 8, 31, 11, 44, 39, 540224), 'msg': AttributeError('Authorization header attribute missing',), 'level': 'ERROR', 'source': '/home/puneet/release_2/humaniti/humaniti/dashboards/transaction/api/project/views.py:39'}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 11:44:39.713645 2018] [wsgi:error] [pid 1042:tid 140245236377344] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 11:44:39.714440 2018] [wsgi:error] [pid 1042:tid 140245379053312] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 11:44:39.745200 2018] [wsgi:error] [pid 1042:tid 140245345482496] CRITICAL error in logging! This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (psycopg2.ProgrammingError) can't adapt type 'AttributeError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'trace': None, 'logger': 'project.views', 'logged_at': datetime.datetime(2018, 8, 31, 11, 44, 39, 540224), 'msg': AttributeError('Authorization header attribute missing',), 'level': 'ERROR', 'source': '/home/puneet/release_2/humaniti/humaniti/dashboards/transaction/api/project/views.py:39'}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 11:44:39.745251 2018] [wsgi:error] [pid 1042:tid 140245345482496] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 11:44:40.066094 2018] [wsgi:error] [pid 1041:tid 140245303518976] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 11:44:40.673665 2018] [wsgi:error] [pid 1042:tid 140245353875200] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:40.673693 2018] [wsgi:error] [pid 1042:tid 140245353875200]   """)
+[Fri Aug 31 11:44:40.845893 2018] [wsgi:error] [pid 1041:tid 140245303518976] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:40.845915 2018] [wsgi:error] [pid 1041:tid 140245303518976]   """)
+[Fri Aug 31 11:44:42.301048 2018] [wsgi:error] [pid 1041:tid 140245487830784] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 11:44:42.301119 2018] [wsgi:error] [pid 1041:tid 140245487830784]   """)
+[Fri Aug 31 11:44:42.307964 2018] [wsgi:error] [pid 1041:tid 140245487830784] Using config: api.config.DevConfig
+[crit] Memory allocation failed, aborting process.
+[crit] Memory allocation failed, aborting process.
+[crit] Memory allocation failed, aborting process.
+[Fri Aug 31 12:10:10.864622 2018] [wsgi:warn] [pid 1426:tid 139961489516416] mod_wsgi: Compiled for Python/3.5.1+.
+[Fri Aug 31 12:10:10.865246 2018] [wsgi:warn] [pid 1426:tid 139961489516416] mod_wsgi: Runtime using Python/3.5.2.
+[Fri Aug 31 12:10:10.865776 2018] [mpm_event:notice] [pid 1426:tid 139961489516416] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Fri Aug 31 12:10:10.865791 2018] [core:notice] [pid 1426:tid 139961489516416] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Aug 31 12:10:37.351193 2018] [wsgi:error] [pid 1434:tid 139961265268480] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 12:10:37.714015 2018] [wsgi:error] [pid 1435:tid 139961307232000] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:10:37.714055 2018] [wsgi:error] [pid 1435:tid 139961307232000]   """)
+[Fri Aug 31 12:10:37.726439 2018] [wsgi:error] [pid 1435:tid 139961307232000] Using config: api.config.DevConfig
+[Fri Aug 31 12:10:37.929962 2018] [wsgi:error] [pid 1434:tid 139961265268480] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:10:37.929984 2018] [wsgi:error] [pid 1434:tid 139961265268480]   """)
+[Fri Aug 31 12:11:11.641501 2018] [wsgi:error] [pid 1434:tid 139961248483072] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 12:11:12.020510 2018] [wsgi:error] [pid 1434:tid 139961248483072] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:11:12.020540 2018] [wsgi:error] [pid 1434:tid 139961248483072]   """)
+[Fri Aug 31 12:11:12.591144 2018] [wsgi:error] [pid 1434:tid 139961248483072] CRITICAL error in logging! (psycopg2.ProgrammingError) can't adapt type 'AttributeError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'logger': 'project.views', 'trace': None, 'logged_at': datetime.datetime(2018, 8, 31, 12, 11, 12, 433371), 'level': 'ERROR', 'msg': AttributeError('Authorization header attribute missing',), 'source': '/home/puneet/release_2/humaniti/humaniti/dashboards/transaction/api/project/views.py:39'}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 12:11:12.591214 2018] [wsgi:error] [pid 1434:tid 139961248483072] ERROR:project.views:Authorization header attribute missing
+[Fri Aug 31 12:16:05.538980 2018] [wsgi:error] [pid 1435:tid 139961282053888] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 12:16:05.812748 2018] [wsgi:error] [pid 1435:tid 139961282053888] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:05.812771 2018] [wsgi:error] [pid 1435:tid 139961282053888]   """)
+[Fri Aug 31 12:16:09.311161 2018] [wsgi:error] [pid 1435:tid 139961240090368] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 12:16:09.792468 2018] [wsgi:error] [pid 1434:tid 139961240090368] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 12:16:10.685900 2018] [wsgi:error] [pid 1435:tid 139961231697664] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 12:16:11.404506 2018] [wsgi:error] [pid 1435:tid 139961231697664] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:11.404535 2018] [wsgi:error] [pid 1435:tid 139961231697664]   """)
+[Fri Aug 31 12:16:11.624358 2018] [wsgi:error] [pid 1434:tid 139961231697664] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 12:16:11.895033 2018] [wsgi:error] [pid 1435:tid 139961223304960] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 12:16:12.537601 2018] [wsgi:error] [pid 1435:tid 139961214912256] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:12.537636 2018] [wsgi:error] [pid 1435:tid 139961214912256]   """)
+[Fri Aug 31 12:16:13.698927 2018] [wsgi:error] [pid 1434:tid 139961282053888] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:13.698958 2018] [wsgi:error] [pid 1434:tid 139961282053888]   """)
+[Fri Aug 31 12:16:13.772677 2018] [wsgi:error] [pid 1435:tid 139961206519552] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 12:16:14.042357 2018] [wsgi:error] [pid 1435:tid 139961206519552] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:14.042386 2018] [wsgi:error] [pid 1435:tid 139961206519552]   """)
+[Fri Aug 31 12:16:14.331968 2018] [wsgi:error] [pid 1435:tid 139961130985216] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:14.331987 2018] [wsgi:error] [pid 1435:tid 139961130985216]   """)
+[Fri Aug 31 12:16:14.497958 2018] [wsgi:error] [pid 1435:tid 139961105807104] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:14.497975 2018] [wsgi:error] [pid 1435:tid 139961105807104]   """)
+[Fri Aug 31 12:16:15.257040 2018] [wsgi:error] [pid 1434:tid 139961198126848] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:16:15.257083 2018] [wsgi:error] [pid 1434:tid 139961198126848]   """)
+[Fri Aug 31 12:16:15.261737 2018] [wsgi:error] [pid 1434:tid 139961198126848] Using config: api.config.DevConfig
+[Fri Aug 31 12:17:56.918562 2018] [wsgi:error] [pid 1434:tid 139961181341440] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:17:56.918577 2018] [wsgi:error] [pid 1434:tid 139961181341440]   """)
+[Fri Aug 31 12:17:57.363380 2018] [wsgi:error] [pid 1434:tid 139961290446592] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:17:57.363407 2018] [wsgi:error] [pid 1434:tid 139961290446592]   """)
+[Fri Aug 31 12:17:57.685635 2018] [wsgi:error] [pid 1434:tid 139961156163328] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 12:17:57.819437 2018] [wsgi:error] [pid 1434:tid 139961156163328] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:17:57.819459 2018] [wsgi:error] [pid 1434:tid 139961156163328]   """)
+[Fri Aug 31 12:18:17.360009 2018] [wsgi:error] [pid 1434:tid 139961122592512] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 12:18:17.625731 2018] [wsgi:error] [pid 1434:tid 139961122592512] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:18:17.625752 2018] [wsgi:error] [pid 1434:tid 139961122592512]   """)
+[Fri Aug 31 12:19:33.393540 2018] [wsgi:error] [pid 1435:tid 139961172948736] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 12:19:33.773820 2018] [wsgi:error] [pid 1435:tid 139961172948736] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:19:33.773848 2018] [wsgi:error] [pid 1435:tid 139961172948736]   """)
+[Fri Aug 31 12:19:34.051854 2018] [wsgi:error] [pid 1435:tid 139961105807104] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 12:19:34.346125 2018] [wsgi:error] [pid 1435:tid 139961273661184] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:19:34.346148 2018] [wsgi:error] [pid 1435:tid 139961273661184]   """)
+[Fri Aug 31 12:19:34.636774 2018] [wsgi:error] [pid 1434:tid 139961248483072] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 12:19:34.659535 2018] [wsgi:error] [pid 1434:tid 139961248483072] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:19:34.659549 2018] [wsgi:error] [pid 1434:tid 139961248483072]   """)
+[Fri Aug 31 12:21:38.129072 2018] [wsgi:error] [pid 1435:tid 139961172948736] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 12:21:40.778896 2018] [wsgi:error] [pid 1435:tid 139961172948736] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:21:40.779625 2018] [wsgi:error] [pid 1435:tid 139961172948736]   """)
+[Fri Aug 31 12:25:01.093726 2018] [wsgi:error] [pid 1435:tid 139961248483072] b'null'
+[Fri Aug 31 12:33:16.335121 2018] [wsgi:error] [pid 1434:tid 139961206519552] wsdlpath /usr/local/lib/python3.5/dist-packages/confirmit-0.1-py3.5.egg/confirmit
+[Fri Aug 31 12:33:18.743797 2018] [wsgi:error] [pid 1434:tid 139961206519552] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 12:33:18.743826 2018] [wsgi:error] [pid 1434:tid 139961206519552]   """)
+[Fri Aug 31 12:55:48.920271 2018] [wsgi:error] [pid 1434:tid 139961122592512] [client 121.244.36.135:58472] mod_wsgi (pid=1434): Exception occurred processing WSGI script '/home/puneet/release_2/humaniti/humaniti/financial/api/financial.wsgi'., referer: http://localhost:4200/userSettings/userAccount
+[Fri Aug 31 12:55:48.923588 2018] [wsgi:error] [pid 1434:tid 139961122592512] [client 121.244.36.135:58472] OSError: failed to write data, referer: http://localhost:4200/userSettings/userAccount
+[Fri Aug 31 13:44:44.766028 2018] [wsgi:error] [pid 1435:tid 139961181341440] ERROR:project.views:(psycopg2.IntegrityError) duplicate key value violates unique constraint "user_property_uc"
+[Fri Aug 31 13:44:44.768025 2018] [wsgi:error] [pid 1435:tid 139961181341440] DETAIL:  Key (user_id, address)=(13, 1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India) already exists.
+[Fri Aug 31 13:44:44.768034 2018] [wsgi:error] [pid 1435:tid 139961181341440]  [SQL: 'INSERT INTO property (user_id, is_ownership, is_rent, rent_amount, property_id, address, property_type, bedrooms, carparks, bathrooms, landarea, estimated_value, financial_account_id, reported_value, existing_property, use_estimate, provider_id, is_moneysoft, created_at, updated_at) VALUES (%(user_id)s, %(is_ownership)s, %(is_rent)s, %(rent_amount)s, %(property_id)s, %(address)s, %(property_type)s, %(bedrooms)s, %(carparks)s, %(bathrooms)s, %(landarea)s, %(estimated_value)s, %(financial_account_id)s, %(reported_value)s, %(existing_property)s, %(use_estimate)s, %(provider_id)s, %(is_moneysoft)s, %(created_at)s, %(updated_at)s) RETURNING property.id'] [parameters: {'is_moneysoft': True, 'provider_id': 0, 'financial_account_id': 0, 'bedrooms': 3, 'user_id': '13', 'updated_at': datetime.datetime(2018, 8, 31, 13, 44, 44, 267672), 'existing_property': True, 'is_rent': False, 'property_type': 1, 'estimated_value': 2029957, 'property_id': 0, 'address': '1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India', 'landarea': 158, 'reported_value': 0, 'bathrooms': 2, 'created_at': datetime.datetime(2018, 8, 31, 13, 44, 44, 267663), 'use_estimate': True, 'is_ownership': False, 'rent_amount': 0, 'carparks': 2}] (Background on this error at: http://sqlalche.me/e/gkpj)
+[Fri Aug 31 13:44:44.768043 2018] [wsgi:error] [pid 1435:tid 139961181341440] 
+[Fri Aug 31 13:46:50.036648 2018] [wsgi:error] [pid 1434:tid 139961139377920] ERROR:project.views:(psycopg2.IntegrityError) duplicate key value violates unique constraint "user_property_uc"
+[Fri Aug 31 13:46:50.037500 2018] [wsgi:error] [pid 1434:tid 139961139377920] DETAIL:  Key (user_id, address)=(13, 1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India) already exists.
+[Fri Aug 31 13:46:50.037508 2018] [wsgi:error] [pid 1434:tid 139961139377920]  [SQL: 'INSERT INTO property (user_id, is_ownership, is_rent, rent_amount, property_id, address, property_type, bedrooms, carparks, bathrooms, landarea, estimated_value, financial_account_id, reported_value, existing_property, use_estimate, provider_id, is_moneysoft, created_at, updated_at) VALUES (%(user_id)s, %(is_ownership)s, %(is_rent)s, %(rent_amount)s, %(property_id)s, %(address)s, %(property_type)s, %(bedrooms)s, %(carparks)s, %(bathrooms)s, %(landarea)s, %(estimated_value)s, %(financial_account_id)s, %(reported_value)s, %(existing_property)s, %(use_estimate)s, %(provider_id)s, %(is_moneysoft)s, %(created_at)s, %(updated_at)s) RETURNING property.id'] [parameters: {'property_type': 2, 'updated_at': datetime.datetime(2018, 8, 31, 13, 46, 49, 855276), 'property_id': 0, 'is_ownership': False, 'is_moneysoft': False, 'existing_property': True, 'rent_amount': 0, 'bedrooms': 4545, 'bathrooms': 36, 'address': '1-164, Singannnapalem, Mundlamuru, Prakasam, Andhrapradesh, India', 'landarea': 36, 'is_rent': False, 'user_id': '13', 'created_at': datetime.datetime(2018, 8, 31, 13, 46, 49, 855267), 'estimated_value': 2323, 'provider_id': 0, 'carparks': 4545, 'financial_account_id': 0, 'use_estimate': False, 'reported_value': 0}] (Background on this error at: http://sqlalche.me/e/gkpj)
+[Fri Aug 31 13:46:50.037524 2018] [wsgi:error] [pid 1434:tid 139961139377920] 
+[crit] Memory allocation failed, aborting process.
+[Fri Aug 31 13:57:25.411077 2018] [mpm_event:error] [pid 1426:tid 139961489516416] (12)Cannot allocate memory: AH00481: fork: Unable to fork new process
+[Fri Aug 31 13:57:37.665027 2018] [mpm_event:error] [pid 1426:tid 139961489516416] (12)Cannot allocate memory: AH00481: fork: Unable to fork new process
+[crit] Memory allocation failed, aborting process.
+[Fri Aug 31 13:57:48.320490 2018] [core:notice] [pid 1426:tid 139961489516416] AH00052: child pid 1434 exit signal Aborted (6)
+[Fri Aug 31 13:57:48.321533 2018] [core:notice] [pid 1426:tid 139961489516416] AH00051: child pid 1435 exit signal Aborted (6), possible coredump in /etc/apache2
+[Fri Aug 31 13:57:48.998199 2018] [wsgi:error] [pid 2206:tid 139961181341440] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 13:57:49.734320 2018] [wsgi:error] [pid 2206:tid 139961223304960] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 13:57:49.936794 2018] [wsgi:error] [pid 2206:tid 139961223304960] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:49.936816 2018] [wsgi:error] [pid 2206:tid 139961223304960]   """)
+[Fri Aug 31 13:57:50.462945 2018] [wsgi:error] [pid 2206:tid 139961206519552] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:50.462976 2018] [wsgi:error] [pid 2206:tid 139961206519552]   """)
+[Fri Aug 31 13:57:51.127322 2018] [wsgi:error] [pid 2206:tid 139961214912256] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 13:57:51.403113 2018] [wsgi:error] [pid 2206:tid 139961214912256] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:51.403137 2018] [wsgi:error] [pid 2206:tid 139961214912256]   """)
+[Fri Aug 31 13:57:51.875368 2018] [wsgi:error] [pid 2206:tid 139961189734144] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 13:57:52.701139 2018] [wsgi:error] [pid 2236:tid 139961240090368] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 13:57:53.100832 2018] [wsgi:error] [pid 2236:tid 139961240090368] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:53.100874 2018] [wsgi:error] [pid 2236:tid 139961240090368]   """)
+[Fri Aug 31 13:57:53.241984 2018] [wsgi:error] [pid 2206:tid 139961265268480] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 13:57:53.641963 2018] [wsgi:error] [pid 2236:tid 139961206519552] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 13:57:53.904093 2018] [wsgi:error] [pid 2236:tid 139961206519552] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:53.904116 2018] [wsgi:error] [pid 2236:tid 139961206519552]   """)
+[Fri Aug 31 13:57:54.040712 2018] [wsgi:error] [pid 2206:tid 139961265268480] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:54.040742 2018] [wsgi:error] [pid 2206:tid 139961265268480]   """)
+[Fri Aug 31 13:57:54.982388 2018] [wsgi:error] [pid 2236:tid 139961105807104] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:54.982419 2018] [wsgi:error] [pid 2236:tid 139961105807104]   """)
+[Fri Aug 31 13:57:55.254195 2018] [wsgi:error] [pid 2206:tid 139961273661184] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:55.254226 2018] [wsgi:error] [pid 2206:tid 139961273661184]   """)
+[Fri Aug 31 13:57:55.262813 2018] [wsgi:error] [pid 2206:tid 139961273661184] Using config: api.config.DevConfig
+[Fri Aug 31 13:57:55.306689 2018] [wsgi:error] [pid 2206:tid 139961139377920] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:55.306710 2018] [wsgi:error] [pid 2206:tid 139961139377920]   """)
+[Fri Aug 31 13:57:56.023712 2018] [wsgi:error] [pid 2236:tid 139961282053888] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 13:57:56.797327 2018] [wsgi:error] [pid 2236:tid 139961282053888] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:56.797348 2018] [wsgi:error] [pid 2236:tid 139961282053888]   """)
+[Fri Aug 31 13:57:57.566393 2018] [wsgi:error] [pid 2236:tid 139961231697664] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 13:57:58.385079 2018] [wsgi:error] [pid 2236:tid 139961231697664] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:58.385104 2018] [wsgi:error] [pid 2236:tid 139961231697664]   """)
+[Fri Aug 31 13:57:58.642650 2018] [wsgi:error] [pid 2236:tid 139961214912256] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 13:57:59.015320 2018] [wsgi:error] [pid 2236:tid 139961214912256] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:59.015352 2018] [wsgi:error] [pid 2236:tid 139961214912256]   """)
+[Fri Aug 31 13:57:59.594488 2018] [wsgi:error] [pid 2236:tid 139961114199808] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:57:59.594511 2018] [wsgi:error] [pid 2236:tid 139961114199808]   """)
+[Fri Aug 31 13:57:59.599039 2018] [wsgi:error] [pid 2236:tid 139961114199808] Using config: api.config.DevConfig
+[Fri Aug 31 13:58:41.164448 2018] [wsgi:error] [pid 2238:tid 139961290446592] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 13:58:41.169623 2018] [wsgi:error] [pid 2237:tid 139961206519552] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 13:58:42.300956 2018] [wsgi:error] [pid 2237:tid 139961122592512] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:42.300990 2018] [wsgi:error] [pid 2237:tid 139961122592512]   """)
+[Fri Aug 31 13:58:42.492382 2018] [wsgi:error] [pid 2238:tid 139961282053888] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 13:58:43.265789 2018] [wsgi:error] [pid 2238:tid 139961282053888] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:43.265818 2018] [wsgi:error] [pid 2238:tid 139961282053888]   """)
+[Fri Aug 31 13:58:43.336847 2018] [wsgi:error] [pid 2238:tid 139961273661184] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:43.336864 2018] [wsgi:error] [pid 2238:tid 139961273661184]   """)
+[Fri Aug 31 13:58:43.376689 2018] [wsgi:error] [pid 2237:tid 139961189734144] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 13:58:43.527693 2018] [wsgi:error] [pid 2237:tid 139961189734144] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:43.527714 2018] [wsgi:error] [pid 2237:tid 139961189734144]   """)
+[Fri Aug 31 13:58:43.589798 2018] [wsgi:error] [pid 2237:tid 139961130985216] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:43.589820 2018] [wsgi:error] [pid 2237:tid 139961130985216]   """)
+[Fri Aug 31 13:58:44.220584 2018] [wsgi:error] [pid 2238:tid 139961223304960] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:58:44.220614 2018] [wsgi:error] [pid 2238:tid 139961223304960]   """)
+[Fri Aug 31 13:58:44.225343 2018] [wsgi:error] [pid 2238:tid 139961223304960] Using config: api.config.DevConfig
+[Fri Aug 31 13:59:02.338865 2018] [wsgi:error] [pid 2236:tid 139961198126848] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 13:59:02.568816 2018] [wsgi:error] [pid 2236:tid 139961147770624] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:59:02.568839 2018] [wsgi:error] [pid 2236:tid 139961147770624]   """)
+[Fri Aug 31 13:59:09.450912 2018] [wsgi:error] [pid 2238:tid 139961206519552] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 13:59:09.854069 2018] [wsgi:error] [pid 2237:tid 139961181341440] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 13:59:09.908654 2018] [wsgi:error] [pid 2238:tid 139961206519552] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:59:09.908677 2018] [wsgi:error] [pid 2238:tid 139961206519552]   """)
+[Fri Aug 31 13:59:10.279668 2018] [wsgi:error] [pid 2237:tid 139961181341440] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 13:59:10.279699 2018] [wsgi:error] [pid 2237:tid 139961181341440]   """)
+[Fri Aug 31 14:00:12.600187 2018] [mpm_event:notice] [pid 1426:tid 139961489516416] AH00491: caught SIGTERM, shutting down
+[Fri Aug 31 14:02:00.146067 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+[Fri Aug 31 14:02:00.148663 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+[Fri Aug 31 14:02:00.149274 2018] [mpm_event:notice] [pid 1394:tid 140562567169920] AH00489: Apache/2.4.18 (Ubuntu) mod_wsgi/4.3.0 Python/3.5.2 configured -- resuming normal operations
+[Fri Aug 31 14:02:00.149290 2018] [core:notice] [pid 1394:tid 140562567169920] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Aug 31 14:02:43.547831 2018] [wsgi:error] [pid 1398:tid 140562416736000] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 14:02:43.548575 2018] [wsgi:error] [pid 1397:tid 140562458699520] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 14:02:44.195584 2018] [wsgi:error] [pid 1398:tid 140562416736000] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:02:44.195617 2018] [wsgi:error] [pid 1398:tid 140562416736000]   """)
+[Fri Aug 31 14:02:44.343732 2018] [wsgi:error] [pid 1397:tid 140562458699520] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:02:44.343761 2018] [wsgi:error] [pid 1397:tid 140562458699520]   """)
+[Fri Aug 31 14:02:44.968043 2018] [wsgi:error] [pid 1397:tid 140562416736000] Running with :project.server.config.DevelopmentConfig
+[Fri Aug 31 14:02:45.252911 2018] [wsgi:error] [pid 1397:tid 140562416736000] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:02:45.252942 2018] [wsgi:error] [pid 1397:tid 140562416736000]   """)
+[Fri Aug 31 14:02:47.505062 2018] [wsgi:error] [pid 1397:tid 140562433521408] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 14:02:47.781848 2018] [wsgi:error] [pid 1397:tid 140562283861760] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:02:47.781867 2018] [wsgi:error] [pid 1397:tid 140562283861760]   """)
+[Fri Aug 31 14:02:56.126805 2018] [wsgi:error] [pid 1397:tid 140562258683648] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:02:56.126835 2018] [wsgi:error] [pid 1397:tid 140562258683648]   """)
+[Fri Aug 31 14:03:34.566532 2018] [wsgi:error] [pid 1398:tid 140562433521408] Using congig: project.config.DevelopmentConfig
+[Fri Aug 31 14:03:34.935753 2018] [wsgi:error] [pid 1398:tid 140562433521408] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:34.935777 2018] [wsgi:error] [pid 1398:tid 140562433521408]   """)
+[Fri Aug 31 14:03:36.045033 2018] [wsgi:error] [pid 1398:tid 140562441914112] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:36.045064 2018] [wsgi:error] [pid 1398:tid 140562441914112]   """)
+[Fri Aug 31 14:03:39.520740 2018] [wsgi:error] [pid 1398:tid 140562450306816] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 14:03:39.581408 2018] [wsgi:error] [pid 1397:tid 140562425128704] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 14:03:40.309078 2018] [wsgi:error] [pid 1397:tid 140562292254464] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 14:03:40.438531 2018] [wsgi:error] [pid 1397:tid 140562292254464] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:40.438554 2018] [wsgi:error] [pid 1397:tid 140562292254464]   """)
+[Fri Aug 31 14:03:41.074358 2018] [wsgi:error] [pid 1398:tid 140562325825280] Using config: server.config.DevelopmentConfig
+[Fri Aug 31 14:03:41.344730 2018] [wsgi:error] [pid 1398:tid 140562325825280] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:41.344752 2018] [wsgi:error] [pid 1398:tid 140562325825280]   """)
+[Fri Aug 31 14:03:41.429828 2018] [wsgi:error] [pid 1397:tid 140562216720128] Using conig: server.config.DevelopmentConfig
+[Fri Aug 31 14:03:41.863545 2018] [wsgi:error] [pid 1397:tid 140562216720128] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:41.863565 2018] [wsgi:error] [pid 1397:tid 140562216720128]   """)
+[Fri Aug 31 14:03:42.771931 2018] [wsgi:error] [pid 1397:tid 140562199934720] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:42.771963 2018] [wsgi:error] [pid 1397:tid 140562199934720]   """)
+[Fri Aug 31 14:03:42.780609 2018] [wsgi:error] [pid 1397:tid 140562199934720] Using config: api.config.DevConfig
+[Fri Aug 31 14:03:42.980297 2018] [wsgi:error] [pid 1398:tid 140562317432576] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:42.980329 2018] [wsgi:error] [pid 1398:tid 140562317432576]   """)
+[Fri Aug 31 14:03:42.984928 2018] [wsgi:error] [pid 1398:tid 140562317432576] Using config: api.config.DevConfig
+[Fri Aug 31 14:03:44.311387 2018] [wsgi:error] [pid 1398:tid 140562334217984] Using config: api.config.DevelopmentConfig
+[Fri Aug 31 14:03:44.537355 2018] [wsgi:error] [pid 1398:tid 140562458699520] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:03:44.537374 2018] [wsgi:error] [pid 1398:tid 140562458699520]   """)
+[Fri Aug 31 14:04:09.429094 2018] [wsgi:error] [pid 1397:tid 140562458699520] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:04:09.429132 2018] [wsgi:error] [pid 1397:tid 140562458699520]   """)
+[Fri Aug 31 14:04:09.634315 2018] [wsgi:error] [pid 1398:tid 140562233505536] Using config: project.config.DevelopmentConfig
+[Fri Aug 31 14:04:09.766249 2018] [wsgi:error] [pid 1398:tid 140562233505536] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:04:09.766272 2018] [wsgi:error] [pid 1398:tid 140562233505536]   """)
+[Fri Aug 31 14:04:09.822866 2018] [wsgi:error] [pid 1398:tid 140562208327424] /usr/local/lib/python3.5/dist-packages/psycopg2-2.7.5-py3.5-linux-x86_64.egg/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+[Fri Aug 31 14:04:09.822879 2018] [wsgi:error] [pid 1398:tid 140562208327424]   """)
+[Fri Aug 31 14:05:28.941898 2018] [wsgi:error] [pid 1398:tid 140562317432576] CRITICAL error in logging! (psycopg2.ProgrammingError) can't adapt type 'KeyError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'logger': 'project.views', 'msg': KeyError('Address',), 'source': '/home/puneet/release_2/humaniti/humaniti/property/api/project/views.py:435', 'trace': None, 'level': 'ERROR', 'logged_at': datetime.datetime(2018, 8, 31, 14, 5, 28, 783634)}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 14:05:28.941972 2018] [wsgi:error] [pid 1398:tid 140562317432576] ERROR:project.views:'Address'
+[Fri Aug 31 14:10:45.597110 2018] [wsgi:error] [pid 1397:tid 140562325825280] CRITICAL error in logging! (psycopg2.ProgrammingError) can't adapt type 'KeyError' [SQL: 'INSERT INTO logs (logger, level, source, trace, msg, logged_at) VALUES (%(logger)s, %(level)s, %(source)s, %(trace)s, %(msg)s, %(logged_at)s) RETURNING logs.id'] [parameters: {'level': 'ERROR', 'source': '/home/puneet/release_2/humaniti/humaniti/property/api/project/views.py:435', 'logged_at': datetime.datetime(2018, 8, 31, 14, 10, 45, 441175), 'trace': None, 'msg': KeyError('Address',), 'logger': 'project.views'}] (Background on this error at: http://sqlalche.me/e/f405)
+[Fri Aug 31 14:10:45.597187 2018] [wsgi:error] [pid 1397:tid 140562325825280] ERROR:project.views:'Address'
+[Sat Sep 01 06:25:02.415081 2018] [mpm_event:notice] [pid 1394:tid 140562567169920] AH00493: SIGUSR1 received.  Doing graceful restart

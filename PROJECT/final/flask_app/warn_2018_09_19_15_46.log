@@ -1,0 +1,924 @@
+[Tue Sep 11 06:25:01.605745 2018] [wsgi:warn] [pid 5455:tid 139920649668480] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 06:25:01.605769 2018] [wsgi:warn] [pid 5455:tid 139920649668480] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 10:50:07.277305 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8139 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:07.277359 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8140 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:09.279147 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8139 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:09.279188 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8140 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:11.281320 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8139 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:11.281363 2018] [core:warn] [pid 5455:tid 139920649668480] AH00045: child process 8140 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 10:50:15.090443 2018] [wsgi:warn] [pid 9250:tid 140569818285952] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 10:50:15.090487 2018] [wsgi:warn] [pid 9250:tid 140569818285952] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 11:04:52.158387 2018] [core:warn] [pid 9250:tid 140569818285952] AH00045: child process 9253 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 11:04:52.158437 2018] [core:warn] [pid 9250:tid 140569818285952] AH00045: child process 9254 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 11:04:54.160216 2018] [core:warn] [pid 9250:tid 140569818285952] AH00045: child process 9253 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 11:04:54.160259 2018] [core:warn] [pid 9250:tid 140569818285952] AH00045: child process 9254 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 11:04:56.957882 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 11:04:56.957922 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 11:54:41.391883 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 11:54:41.391895 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 12:08:30.820854 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 12:08:30.820870 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 15:54:19.309427 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 15:54:19.310200 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 16:11:18.771898 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 16:11:18.772659 2018] [wsgi:warn] [pid 9435:tid 139693871564672] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 19:04:09.264221 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10960 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:09.264400 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10961 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:11.266630 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10960 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:11.266839 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10961 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:13.267255 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10960 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:13.267451 2018] [core:warn] [pid 9435:tid 139693871564672] AH00045: child process 10961 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:04:16.072846 2018] [wsgi:warn] [pid 12051:tid 139907434305408] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 19:04:16.073007 2018] [wsgi:warn] [pid 12051:tid 139907434305408] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 11 19:28:17.698838 2018] [core:warn] [pid 12051:tid 139907434305408] AH00045: child process 12055 still did not exit, sending a SIGTERM
+
+[Tue Sep 11 19:28:19.488569 2018] [wsgi:warn] [pid 12409:tid 140336011224960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 11 19:28:19.488732 2018] [wsgi:warn] [pid 12409:tid 140336011224960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 10 06:25:01.505269 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 10 06:25:01.505294 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 10 13:17:59.567932 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 10 13:17:59.568077 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 10 18:42:51.752229 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4053 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:51.752448 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4054 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:53.754757 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4053 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:53.754960 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4054 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:55.757326 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4053 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:55.757618 2018] [core:warn] [pid 30363:tid 140206590875520] AH00045: child process 4054 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:42:59.546881 2018] [wsgi:warn] [pid 5310:tid 140431824385920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 10 18:42:59.547052 2018] [wsgi:warn] [pid 5310:tid 140431824385920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 10 18:46:08.551884 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5313 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:08.552091 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5314 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:10.554400 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5313 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:10.554590 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5314 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:12.556936 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5313 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:12.557136 2018] [core:warn] [pid 5310:tid 140431824385920] AH00045: child process 5314 still did not exit, sending a SIGTERM
+
+[Mon Sep 10 18:46:16.327938 2018] [wsgi:warn] [pid 5455:tid 139920649668480] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 10 18:46:16.328118 2018] [wsgi:warn] [pid 5455:tid 139920649668480] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 01 06:25:02.428019 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 01 06:25:02.428040 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Aug 31 06:25:02.354195 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Aug 31 06:25:02.354221 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Aug 31 12:10:10.864622 2018] [wsgi:warn] [pid 1426:tid 139961489516416] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Aug 31 12:10:10.865246 2018] [wsgi:warn] [pid 1426:tid 139961489516416] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Aug 31 14:02:00.146067 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Aug 31 14:02:00.148663 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 06:25:01.793681 2018] [wsgi:warn] [pid 21974:tid 139801677428608] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 06:25:01.793704 2018] [wsgi:warn] [pid 21974:tid 139801677428608] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 07:02:17.512406 2018] [wsgi:warn] [pid 22744:tid 140591776647040] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 07:02:17.512449 2018] [wsgi:warn] [pid 22744:tid 140591776647040] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 09:04:59.015286 2018] [wsgi:warn] [pid 23126:tid 140068841916288] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 09:04:59.015327 2018] [wsgi:warn] [pid 23126:tid 140068841916288] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 11:23:44.487777 2018] [wsgi:warn] [pid 24051:tid 140637956474752] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 11:23:44.487821 2018] [wsgi:warn] [pid 24051:tid 140637956474752] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 16:07:10.571892 2018] [wsgi:warn] [pid 25064:tid 140476907677568] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 16:07:10.572205 2018] [wsgi:warn] [pid 25064:tid 140476907677568] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 18:42:43.095380 2018] [wsgi:warn] [pid 25537:tid 140235403626368] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 18:42:43.095417 2018] [wsgi:warn] [pid 25537:tid 140235403626368] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 20:28:30.026167 2018] [core:warn] [pid 25537:tid 140235403626368] AH00045: child process 25540 still did not exit, sending a SIGTERM
+
+[Thu Aug 30 20:28:30.026218 2018] [core:warn] [pid 25537:tid 140235403626368] AH00045: child process 25541 still did not exit, sending a SIGTERM
+
+[Thu Aug 30 20:28:31.798856 2018] [wsgi:warn] [pid 26185:tid 140120412473216] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 20:28:31.798892 2018] [wsgi:warn] [pid 26185:tid 140120412473216] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 22:31:03.830392 2018] [wsgi:warn] [pid 26644:tid 140198186575744] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 22:31:03.830444 2018] [wsgi:warn] [pid 26644:tid 140198186575744] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 23:39:50.291272 2018] [core:warn] [pid 26644:tid 140198186575744] AH00045: child process 26648 still did not exit, sending a SIGTERM
+
+[Thu Aug 30 23:39:52.078057 2018] [wsgi:warn] [pid 26941:tid 140366360811392] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 23:39:52.078242 2018] [wsgi:warn] [pid 26941:tid 140366360811392] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 23:41:47.868031 2018] [wsgi:warn] [pid 27097:tid 140459347462016] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 23:41:47.868236 2018] [wsgi:warn] [pid 27097:tid 140459347462016] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 23:41:53.765502 2018] [wsgi:warn] [pid 27097:tid 140459347462016] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 23:41:53.765626 2018] [wsgi:warn] [pid 27097:tid 140459347462016] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 23:43:29.316834 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 23:43:29.317016 2018] [wsgi:warn] [pid 27337:tid 140245680211840] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 06:25:01.962672 2018] [wsgi:warn] [pid 11668:tid 140263103813504] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 06:25:01.962695 2018] [wsgi:warn] [pid 11668:tid 140263103813504] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 12:32:39.544467 2018] [wsgi:warn] [pid 18106:tid 140248496527232] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 12:32:39.544513 2018] [wsgi:warn] [pid 18106:tid 140248496527232] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 12:41:09.170388 2018] [wsgi:warn] [pid 18397:tid 140655885862784] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 12:41:09.170537 2018] [wsgi:warn] [pid 18397:tid 140655885862784] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 12:53:59.743439 2018] [core:warn] [pid 18397:tid 140655885862784] AH00045: child process 18401 still did not exit, sending a SIGTERM
+
+[Wed Aug 29 12:54:01.746358 2018] [core:warn] [pid 18397:tid 140655885862784] AH00045: child process 18401 still did not exit, sending a SIGTERM
+
+[Wed Aug 29 12:54:03.748810 2018] [core:warn] [pid 18397:tid 140655885862784] AH00045: child process 18401 still did not exit, sending a SIGTERM
+
+[Wed Aug 29 12:54:07.511849 2018] [wsgi:warn] [pid 18630:tid 140022431750016] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 12:54:07.512019 2018] [wsgi:warn] [pid 18630:tid 140022431750016] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 13:12:04.405332 2018] [wsgi:warn] [pid 18958:tid 139683650094976] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 13:12:04.405502 2018] [wsgi:warn] [pid 18958:tid 139683650094976] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Aug 29 15:50:28.821090 2018] [core:warn] [pid 18958:tid 139683650094976] AH00045: child process 18961 still did not exit, sending a SIGTERM
+
+[Wed Aug 29 15:50:30.608398 2018] [wsgi:warn] [pid 19742:tid 139697491122048] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Aug 29 15:50:30.608695 2018] [wsgi:warn] [pid 19742:tid 139697491122048] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Aug 30 04:52:44.812348 2018] [wsgi:warn] [pid 21974:tid 139801677428608] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Aug 30 04:52:44.812622 2018] [wsgi:warn] [pid 21974:tid 139801677428608] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 06:25:01.948958 2018] [wsgi:warn] [pid 1387:tid 139657101293440] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 06:25:01.948982 2018] [wsgi:warn] [pid 1387:tid 139657101293440] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 07:34:54.254628 2018] [wsgi:warn] [pid 15018:tid 140593578555264] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 07:34:54.254679 2018] [wsgi:warn] [pid 15018:tid 140593578555264] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 07:37:22.873029 2018] [core:warn] [pid 15018:tid 140593578555264] AH00045: child process 15022 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:37:24.875357 2018] [core:warn] [pid 15018:tid 140593578555264] AH00045: child process 15022 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:37:26.877665 2018] [core:warn] [pid 15018:tid 140593578555264] AH00045: child process 15022 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:37:30.639205 2018] [wsgi:warn] [pid 15210:tid 139994515515264] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 07:37:30.639241 2018] [wsgi:warn] [pid 15210:tid 139994515515264] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 07:50:04.081039 2018] [core:warn] [pid 15210:tid 139994515515264] AH00045: child process 15214 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:50:06.083238 2018] [core:warn] [pid 15210:tid 139994515515264] AH00045: child process 15214 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:50:08.085039 2018] [core:warn] [pid 15210:tid 139994515515264] AH00045: child process 15214 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 07:50:11.849915 2018] [wsgi:warn] [pid 15854:tid 140361925498752] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 07:50:11.849956 2018] [wsgi:warn] [pid 15854:tid 140361925498752] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 08:06:31.198702 2018] [core:warn] [pid 15854:tid 140361925498752] AH00045: child process 15858 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 08:06:33.201013 2018] [core:warn] [pid 15854:tid 140361925498752] AH00045: child process 15858 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 08:06:35.203305 2018] [core:warn] [pid 15854:tid 140361925498752] AH00045: child process 15858 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 08:07:16.954143 2018] [wsgi:warn] [pid 1436:tid 140005688715136] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 08:07:16.954984 2018] [wsgi:warn] [pid 1436:tid 140005688715136] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 09:59:27.945149 2018] [wsgi:warn] [pid 3891:tid 140520551630720] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 09:59:27.945189 2018] [wsgi:warn] [pid 3891:tid 140520551630720] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 10:05:15.541328 2018] [core:warn] [pid 3891:tid 140520551630720] AH00045: child process 3894 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 10:05:17.543621 2018] [core:warn] [pid 3891:tid 140520551630720] AH00045: child process 3894 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 10:05:19.545916 2018] [core:warn] [pid 3891:tid 140520551630720] AH00045: child process 3894 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 10:05:23.298238 2018] [wsgi:warn] [pid 4232:tid 140564953016192] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 10:05:23.298279 2018] [wsgi:warn] [pid 4232:tid 140564953016192] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 10:35:10.326694 2018] [wsgi:warn] [pid 5012:tid 139812758599552] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 10:35:10.326737 2018] [wsgi:warn] [pid 5012:tid 139812758599552] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 11:36:28.882610 2018] [wsgi:warn] [pid 6366:tid 140052769769344] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 11:36:28.882651 2018] [wsgi:warn] [pid 6366:tid 140052769769344] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 13:37:12.576268 2018] [core:warn] [pid 6366:tid 140052769769344] AH00045: child process 6369 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 13:37:14.578829 2018] [core:warn] [pid 6366:tid 140052769769344] AH00045: child process 6369 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 13:37:16.581382 2018] [core:warn] [pid 6366:tid 140052769769344] AH00045: child process 6369 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 13:37:20.347702 2018] [wsgi:warn] [pid 9438:tid 140043437283200] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 13:37:20.347977 2018] [wsgi:warn] [pid 9438:tid 140043437283200] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 13:48:25.879229 2018] [wsgi:warn] [pid 9856:tid 140402064058240] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 13:48:25.879270 2018] [wsgi:warn] [pid 9856:tid 140402064058240] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 14:00:33.758135 2018] [wsgi:warn] [pid 10306:tid 140282297898880] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 14:00:33.758179 2018] [wsgi:warn] [pid 10306:tid 140282297898880] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 14:48:10.507459 2018] [wsgi:warn] [pid 11193:tid 139659465103232] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 14:48:10.507501 2018] [wsgi:warn] [pid 11193:tid 139659465103232] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Aug 28 15:08:26.964420 2018] [core:warn] [pid 11193:tid 139659465103232] AH00045: child process 11196 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 15:08:28.966719 2018] [core:warn] [pid 11193:tid 139659465103232] AH00045: child process 11196 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 15:08:30.969055 2018] [core:warn] [pid 11193:tid 139659465103232] AH00045: child process 11196 still did not exit, sending a SIGTERM
+
+[Tue Aug 28 15:08:34.729398 2018] [wsgi:warn] [pid 11668:tid 140263103813504] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Aug 28 15:08:34.729440 2018] [wsgi:warn] [pid 11668:tid 140263103813504] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 06:25:02.104265 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 06:25:02.104289 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 10:18:38.371945 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 10:18:38.371961 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 12:18:08.619565 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 12:18:08.619581 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 12:35:56.275912 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 12:35:56.275928 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 12:44:06.371558 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 12:44:06.371574 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 14:42:24.155892 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 14:42:24.155905 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 14:42:34.171754 2018] [wsgi:warn] [pid 24035:tid 139822636259200] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 14:42:34.171795 2018] [wsgi:warn] [pid 24035:tid 139822636259200] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 14:48:18.660314 2018] [wsgi:warn] [pid 24035:tid 139822636259200] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 14:48:18.660330 2018] [wsgi:warn] [pid 24035:tid 139822636259200] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 14:48:26.862702 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 14:48:26.862742 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 15:13:48.648078 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 15:13:48.648096 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 15:22:27.099877 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 15:22:27.099891 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 00:14:59.732684 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 00:14:59.732700 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 00:18:34.647568 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 00:18:34.647585 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 00:51:31.011890 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 00:51:31.011908 2018] [wsgi:warn] [pid 24387:tid 140005671180160] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 00:51:42.439680 2018] [wsgi:warn] [pid 27804:tid 139936829589376] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 00:51:42.439719 2018] [wsgi:warn] [pid 27804:tid 139936829589376] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 02:22:22.749300 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27807 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:22.749352 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27808 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:24.751141 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27807 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:24.751180 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27808 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:26.753344 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27807 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:26.753385 2018] [core:warn] [pid 27804:tid 139936829589376] AH00045: child process 27808 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 02:22:29.565446 2018] [wsgi:warn] [pid 29377:tid 139697213077376] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 02:22:29.565484 2018] [wsgi:warn] [pid 29377:tid 139697213077376] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 02:53:55.623667 2018] [wsgi:warn] [pid 29641:tid 140122409322368] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 02:53:55.623706 2018] [wsgi:warn] [pid 29641:tid 140122409322368] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 03:31:33.502794 2018] [core:warn] [pid 29641:tid 140122409322368] AH00045: child process 29644 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 03:31:33.502846 2018] [core:warn] [pid 29641:tid 140122409322368] AH00045: child process 29645 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 03:31:35.504222 2018] [core:warn] [pid 29641:tid 140122409322368] AH00045: child process 29644 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 03:31:35.504262 2018] [core:warn] [pid 29641:tid 140122409322368] AH00045: child process 29645 still did not exit, sending a SIGTERM
+
+[Sun Sep 09 03:31:38.306160 2018] [wsgi:warn] [pid 30093:tid 139722431383424] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 03:31:38.306202 2018] [wsgi:warn] [pid 30093:tid 139722431383424] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 03:40:50.708336 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 03:40:50.708373 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:25:02.173569 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:25:02.173593 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:37:13.387771 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:37:13.387787 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:44:13.662690 2018] [core:warn] [pid 11982:tid 140549774329728] AH00045: child process 13265 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:44:15.664999 2018] [core:warn] [pid 11982:tid 140549774329728] AH00045: child process 13265 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:44:17.667280 2018] [core:warn] [pid 11982:tid 140549774329728] AH00045: child process 13265 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:44:21.424548 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:44:21.424591 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:57:58.663953 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:57:58.663968 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 07:11:48.891555 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 07:11:48.891571 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 09:24:01.304374 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 09:24:01.304392 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 09:51:42.035976 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 09:51:42.035994 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 09:59:21.879560 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 09:59:21.880133 2018] [wsgi:warn] [pid 13413:tid 139880103688064] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:02:38.774723 2018] [wsgi:warn] [pid 15134:tid 140038135154560] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:02:38.774766 2018] [wsgi:warn] [pid 15134:tid 140038135154560] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:03:27.426789 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:03:27.426832 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:27:33.315546 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:27:33.315562 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:40:00.584952 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:40:00.584964 2018] [wsgi:warn] [pid 15248:tid 140140291581824] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:41:16.868716 2018] [wsgi:warn] [pid 15778:tid 140131249035136] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:41:16.868756 2018] [wsgi:warn] [pid 15778:tid 140131249035136] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 10:43:46.712786 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 10:43:46.712823 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:07:51.867539 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:07:51.867553 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:07:57.111585 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:07:57.111600 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:12:35.954261 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:12:35.954269 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:14:51.338075 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:14:51.338086 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:16:22.810229 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:16:22.810238 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 11:18:06.009358 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 11:18:06.009367 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 13:09:19.843552 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 13:09:19.844427 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sat Sep 08 06:00:03.216319 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sat Sep 08 06:00:03.216631 2018] [wsgi:warn] [pid 15893:tid 140191031371648] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 06:25:02.052287 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 06:25:02.052312 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 06:26:02.018024 2018] [wsgi:error] [pid 31665:tid 140025261913856] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 06:26:06.102819 2018] [wsgi:error] [pid 31666:tid 140025211557632] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 08:22:59.783218 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 08:22:59.783232 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 08:25:52.889672 2018] [wsgi:error] [pid 32339:tid 140025219950336] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 08:25:53.950683 2018] [wsgi:error] [pid 32340:tid 140025261913856] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 09:14:56.899924 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 09:14:56.899940 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 09:15:32.936869 2018] [wsgi:error] [pid 32694:tid 140025320662784] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 09:16:21.513339 2018] [wsgi:error] [pid 32695:tid 140025396197120] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 11:17:14.221294 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32694 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:14.221347 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32695 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:16.223145 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32694 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:16.223183 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32695 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:18.225337 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32694 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:18.225378 2018] [core:warn] [pid 28115:tid 140025571800960] AH00045: child process 32695 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:17:21.043439 2018] [wsgi:warn] [pid 1813:tid 139799909480320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 11:17:21.043479 2018] [wsgi:warn] [pid 1813:tid 139799909480320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 11:19:02.043925 2018] [wsgi:error] [pid 1816:tid 139799700694784] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 11:19:35.354974 2018] [wsgi:error] [pid 1817:tid 139799667123968] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 11:40:15.731139 2018] [core:warn] [pid 1813:tid 139799909480320] AH00045: child process 1816 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:40:15.731197 2018] [core:warn] [pid 1813:tid 139799909480320] AH00045: child process 1817 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:40:17.733466 2018] [core:warn] [pid 1813:tid 139799909480320] AH00045: child process 1816 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:40:19.735761 2018] [core:warn] [pid 1813:tid 139799909480320] AH00045: child process 1816 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 11:40:23.510318 2018] [wsgi:warn] [pid 2146:tid 139932244330368] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 11:40:23.510362 2018] [wsgi:warn] [pid 2146:tid 139932244330368] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 11:42:54.905018 2018] [wsgi:error] [pid 2150:tid 139931913484032] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 11:42:56.236150 2018] [wsgi:error] [pid 2149:tid 139931963840256] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 12:10:05.442899 2018] [core:warn] [pid 2146:tid 139932244330368] AH00045: child process 2149 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:10:05.442951 2018] [core:warn] [pid 2146:tid 139932244330368] AH00045: child process 2150 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:10:07.444223 2018] [core:warn] [pid 2146:tid 139932244330368] AH00045: child process 2149 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:10:07.444262 2018] [core:warn] [pid 2146:tid 139932244330368] AH00045: child process 2150 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:10:10.248666 2018] [wsgi:warn] [pid 2978:tid 140118214178688] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 12:10:10.248709 2018] [wsgi:warn] [pid 2978:tid 140118214178688] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 12:22:15.317297 2018] [core:warn] [pid 2978:tid 140118214178688] AH00045: child process 2981 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:22:15.317352 2018] [core:warn] [pid 2978:tid 140118214178688] AH00045: child process 2982 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:22:17.319144 2018] [core:warn] [pid 2978:tid 140118214178688] AH00045: child process 2981 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:22:17.319186 2018] [core:warn] [pid 2978:tid 140118214178688] AH00045: child process 2982 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 12:22:20.128118 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 12:22:20.128160 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 12:44:48.878970 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 12:44:48.878979 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 12:53:57.507862 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 12:53:57.507876 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 13:00:13.344052 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 13:00:13.344068 2018] [wsgi:warn] [pid 3170:tid 139961661695872] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 13:09:05.030247 2018] [core:warn] [pid 3170:tid 139961661695872] AH00045: child process 3824 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:09:05.030297 2018] [core:warn] [pid 3170:tid 139961661695872] AH00045: child process 3825 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:09:07.032232 2018] [core:warn] [pid 3170:tid 139961661695872] AH00045: child process 3825 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:09:08.821111 2018] [wsgi:warn] [pid 4005:tid 140390039349120] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 13:09:08.821153 2018] [wsgi:warn] [pid 4005:tid 140390039349120] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 13:50:26.185305 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4008 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:26.185354 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4009 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:28.187145 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4008 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:28.187185 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4009 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:30.189358 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4008 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:30.189394 2018] [core:warn] [pid 4005:tid 140390039349120] AH00045: child process 4009 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 13:50:32.998858 2018] [wsgi:warn] [pid 4260:tid 139647894579072] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 13:50:32.998900 2018] [wsgi:warn] [pid 4260:tid 139647894579072] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 13:51:53.497387 2018] [wsgi:warn] [pid 4476:tid 140679060973440] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 13:51:53.497428 2018] [wsgi:warn] [pid 4476:tid 140679060973440] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 13:58:51.639539 2018] [wsgi:warn] [pid 4476:tid 140679060973440] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 13:58:51.639554 2018] [wsgi:warn] [pid 4476:tid 140679060973440] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 14:06:37.699146 2018] [core:warn] [pid 4476:tid 140679060973440] AH00045: child process 4731 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:06:37.699203 2018] [core:warn] [pid 4476:tid 140679060973440] AH00045: child process 4732 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:06:39.700506 2018] [core:warn] [pid 4476:tid 140679060973440] AH00045: child process 4731 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:06:39.700544 2018] [core:warn] [pid 4476:tid 140679060973440] AH00045: child process 4732 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:06:41.499660 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 14:06:41.499695 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 14:18:30.220007 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 14:18:30.220022 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 14:26:29.305802 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 14:26:29.305996 2018] [wsgi:warn] [pid 4885:tid 140213450520448] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 14:49:29.071146 2018] [core:warn] [pid 4885:tid 140213450520448] AH00045: child process 5366 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:49:29.071197 2018] [core:warn] [pid 4885:tid 140213450520448] AH00045: child process 5367 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:49:31.073318 2018] [core:warn] [pid 4885:tid 140213450520448] AH00045: child process 5366 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:49:31.073358 2018] [core:warn] [pid 4885:tid 140213450520448] AH00045: child process 5367 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 14:49:33.868356 2018] [wsgi:warn] [pid 5776:tid 139793464682368] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 14:49:33.868398 2018] [wsgi:warn] [pid 5776:tid 139793464682368] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 15:11:13.127144 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5779 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:13.127243 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5780 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:15.129415 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5779 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:15.129495 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5780 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:17.131139 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5779 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:17.131216 2018] [core:warn] [pid 5776:tid 139793464682368] AH00045: child process 5780 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 15:11:20.948557 2018] [wsgi:warn] [pid 6144:tid 140373614610304] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 15:11:20.948629 2018] [wsgi:warn] [pid 6144:tid 140373614610304] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 20:03:51.340240 2018] [wsgi:warn] [pid 6144:tid 140373614610304] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 20:03:51.340763 2018] [wsgi:warn] [pid 6144:tid 140373614610304] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 20:04:00.403621 2018] [core:warn] [pid 6144:tid 140373614610304] AH00045: child process 6148 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 20:04:02.406512 2018] [core:warn] [pid 6144:tid 140373614610304] AH00045: child process 6148 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 20:04:04.409388 2018] [core:warn] [pid 6144:tid 140373614610304] AH00045: child process 6148 still did not exit, sending a SIGTERM
+
+[Thu Sep 06 20:04:08.168699 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 20:04:08.169299 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 23:42:36.996553 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 23:42:36.997169 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 23:48:19.909422 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 23:48:19.910005 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 23:59:01.544501 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 23:59:01.544511 2018] [wsgi:warn] [pid 8169:tid 139636459575168] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 02:03:41.301306 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9424 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:41.301359 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9425 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:43.303143 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9424 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:43.303184 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9425 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:45.305351 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9424 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:45.305403 2018] [core:warn] [pid 8169:tid 139636459575168] AH00045: child process 9425 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:03:49.135321 2018] [wsgi:warn] [pid 10045:tid 140234957240192] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 02:03:49.135365 2018] [wsgi:warn] [pid 10045:tid 140234957240192] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 02:07:01.726856 2018] [core:warn] [pid 10045:tid 140234957240192] AH00045: child process 10048 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:07:01.726913 2018] [core:warn] [pid 10045:tid 140234957240192] AH00045: child process 10049 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:07:03.728217 2018] [core:warn] [pid 10045:tid 140234957240192] AH00045: child process 10048 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:07:03.728256 2018] [core:warn] [pid 10045:tid 140234957240192] AH00045: child process 10049 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 02:07:05.535892 2018] [wsgi:warn] [pid 10330:tid 140306496423808] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 02:07:05.535930 2018] [wsgi:warn] [pid 10330:tid 140306496423808] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 04:54:50.132222 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10333 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:50.132275 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10334 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:52.134437 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10333 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:52.134479 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10334 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:54.136220 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10333 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:54.136262 2018] [core:warn] [pid 10330:tid 140306496423808] AH00045: child process 10334 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 04:54:55.939257 2018] [wsgi:warn] [pid 11593:tid 140052951451520] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 04:54:55.939296 2018] [wsgi:warn] [pid 11593:tid 140052951451520] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:02:43.427140 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11596 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:43.427191 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11597 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:45.429352 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11596 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:45.429392 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11597 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:47.431150 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11596 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:47.431190 2018] [core:warn] [pid 11593:tid 140052951451520] AH00045: child process 11597 still did not exit, sending a SIGTERM
+
+[Fri Sep 07 06:02:50.239642 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:02:50.239677 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:06:35.776072 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:06:35.776121 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:09:06.663904 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:09:06.664473 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:13:16.136135 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:13:16.136656 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Fri Sep 07 06:21:36.648007 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Fri Sep 07 06:21:36.648152 2018] [wsgi:warn] [pid 11982:tid 140549774329728] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 06:25:02.046382 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 06:25:02.046405 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 07:54:25.091194 2018] [core:warn] [pid 18051:tid 139892313536384] AH00045: child process 22993 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 07:55:06.750083 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 07:55:06.750130 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 07:55:06.750145 2018] [core:warn] [pid 23792:tid 140122504808320] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+
+[Wed Sep 05 07:57:28.596109 2018] [wsgi:error] [pid 23796:tid 140122379552512] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 07:57:35.052845 2018] [wsgi:error] [pid 23797:tid 140122217469696] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 10:23:45.432238 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 10:23:45.432256 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 10:59:21.735528 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 10:59:21.735540 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 12:42:10.847793 2018] [wsgi:error] [pid 25056:tid 140122234255104] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 12:53:57.873494 2018] [wsgi:error] [pid 25055:tid 140122217469696] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 16:06:54.299947 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 16:06:54.299962 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 16:07:10.251655 2018] [wsgi:error] [pid 26008:tid 140122293004032] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 16:32:03.836747 2018] [wsgi:error] [pid 26007:tid 140122167113472] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 16:44:02.913985 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 16:44:02.913993 2018] [wsgi:warn] [pid 23792:tid 140122504808320] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 16:44:12.459373 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26007 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:12.459424 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26008 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:14.461663 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26007 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:14.461706 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26008 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:16.463933 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26007 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:16.463976 2018] [core:warn] [pid 23792:tid 140122504808320] AH00045: child process 26008 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 16:44:20.223791 2018] [wsgi:warn] [pid 26413:tid 140396121610112] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 16:44:20.223833 2018] [wsgi:warn] [pid 26413:tid 140396121610112] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 16:44:39.645880 2018] [wsgi:error] [pid 26417:tid 140395862271744] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Wed Sep 05 23:54:15.495166 2018] [core:warn] [pid 26413:tid 140396121610112] AH00045: child process 26417 still did not exit, sending a SIGTERM
+
+[Wed Sep 05 23:54:17.288990 2018] [wsgi:warn] [pid 27900:tid 140496025511808] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 23:54:17.289031 2018] [wsgi:warn] [pid 27900:tid 140496025511808] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 23:57:56.570705 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 23:57:56.570745 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 00:07:36.267966 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 00:07:36.267982 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 03:13:06.011114 2018] [wsgi:error] [pid 28307:tid 140025354233600] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 03:13:07.631678 2018] [wsgi:error] [pid 28308:tid 140025396197120] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 04:53:37.788416 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Thu Sep 06 04:53:37.788425 2018] [wsgi:warn] [pid 28115:tid 140025571800960] mod_wsgi: Runtime using Python/3.5.2.
+
+[Thu Sep 06 04:55:28.914566 2018] [wsgi:error] [pid 30572:tid 140025320662784] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Thu Sep 06 05:02:53.814117 2018] [wsgi:error] [pid 30571:tid 140025396197120] /usr/local/lib/python3.5/dist-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+
+[Tue Sep 04 06:25:02.042756 2018] [wsgi:warn] [pid 13919:tid 140640853624704] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 06:25:02.042770 2018] [wsgi:warn] [pid 13919:tid 140640853624704] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 04 09:36:02.461417 2018] [core:warn] [pid 13919:tid 140640853624704] AH00045: child process 16573 still did not exit, sending a SIGTERM
+
+[Tue Sep 04 09:36:04.463709 2018] [core:warn] [pid 13919:tid 140640853624704] AH00045: child process 16573 still did not exit, sending a SIGTERM
+
+[Tue Sep 04 09:36:06.465999 2018] [core:warn] [pid 13919:tid 140640853624704] AH00045: child process 16573 still did not exit, sending a SIGTERM
+
+[Tue Sep 04 09:36:10.229822 2018] [wsgi:warn] [pid 17633:tid 139939597608832] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 09:36:10.229863 2018] [wsgi:warn] [pid 17633:tid 139939597608832] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 04 09:52:18.442763 2018] [core:warn] [pid 17633:tid 139939597608832] AH00045: child process 17636 still did not exit, sending a SIGTERM
+
+[Tue Sep 04 09:52:18.442818 2018] [core:warn] [pid 17633:tid 139939597608832] AH00045: child process 17637 still did not exit, sending a SIGTERM
+
+[Tue Sep 04 09:52:21.232397 2018] [wsgi:warn] [pid 17924:tid 140685492774784] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 09:52:21.232445 2018] [wsgi:warn] [pid 17924:tid 140685492774784] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 04 09:54:45.248116 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 09:54:45.248160 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 04 14:22:30.947877 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 14:22:30.947892 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Runtime using Python/3.5.2.
+
+[Tue Sep 04 14:35:34.328009 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Tue Sep 04 14:35:34.328024 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Runtime using Python/3.5.2.
+
+[Wed Sep 05 06:22:51.873184 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Wed Sep 05 06:22:51.873194 2018] [wsgi:warn] [pid 18051:tid 139892313536384] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 03 06:25:01.860873 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 03 06:25:01.860896 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 03 10:02:49.092906 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 03 10:02:49.092915 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Mon Sep 03 11:21:24.040221 2018] [core:warn] [pid 1394:tid 140562567169920] AH00045: child process 13316 still did not exit, sending a SIGTERM
+
+[Mon Sep 03 11:21:24.040274 2018] [core:warn] [pid 1394:tid 140562567169920] AH00045: child process 13317 still did not exit, sending a SIGTERM
+
+[Mon Sep 03 11:21:26.827663 2018] [wsgi:warn] [pid 13919:tid 140640853624704] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Mon Sep 03 11:21:26.827702 2018] [wsgi:warn] [pid 13919:tid 140640853624704] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 02 06:25:01.317467 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 02 06:25:01.317497 2018] [wsgi:warn] [pid 1394:tid 140562567169920] mod_wsgi: Runtime using Python/3.5.2.
+
+[Sun Sep 09 06:25:01.685393 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Compiled for Python/3.5.1+.
+
+[Sun Sep 09 06:25:01.685424 2018] [wsgi:warn] [pid 30363:tid 140206590875520] mod_wsgi: Runtime using Python/3.5.2.
+
